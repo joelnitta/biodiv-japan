@@ -156,7 +156,7 @@ https://upload.wikimedia.org/
 
 ## Biodiversity is **in danger**
 
-You probably have heard this many times, but in this class we will learn about the **specific risks** posed to biodiversity, and **actionable measures** to counteract them.
+We will learn about the **specific risks** posed to biodiversity, and **actionable measures** to counteract them.
 
 ::: {.incremental}
 
@@ -276,6 +276,12 @@ By the end of the course, you will be able to:
 - Midterm 30%
 - Participation 20%
 - Final presentation 30%
+
+## Slides
+
+- All slides available at<br><https://joelnitta.github.io/biodiv-japan/>
+
+- Click menu button on lower-left to jump to a topic (day)
 
 ## Moodle
 
