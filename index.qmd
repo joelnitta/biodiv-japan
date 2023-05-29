@@ -1,0 +1,273 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: styles.css
+execute: 
+  echo: true
+---
+
+# Introduction to "Biodiversity and Japan"
+
+2023-06-13
+
+## Instructor: Joel Nitta
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Research topic 1: Ecology and evolution of **ferns**
+
+- Research topic 2: Development of software for **data science**
+:::
+
+::: {.column width="50%"}
+![](https://github.com/joelnitta/joelnitta-site/blob/master/static/media/headers/research_img2.jpg?raw=true){fig-alt="Image of Joel Nitta in field" width="100%" height="100%"}
+:::
+
+::::
+
+## Instructor: Joel Nitta
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Born and raised in California
+
+- Fourth generation Japanese-American
+
+- First came to Japan as high school exchange student
+:::
+
+::: {.column width="50%"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/2880px-California_in_United_States.svg.png){fig-alt="Image of California map" width="100%" height="100%"}
+:::
+
+::::
+
+---
+
+![](https://climate.copernicus.eu/sites/default/files/styles/hero_image_extra_large_2x/public/2019-10/biodiversity.jpg?itok=4yl27Tnz){fig-alt="Biodiversity image from https://climate.copernicus.eu" width="80%" height="80%"}
+
+::: {.small}
+https://climate.copernicus.eu
+:::
+
+## What is biodiversity?
+
+- **The different kinds of life that occur on our planet**
+
+. . .
+
+- Often we talk about the **number of species**, but it has other definitions too
+
+## Why does biodiversity matter?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+1. How would you feel if you could **never visit a natural place** like a forest or the mountains?
+:::
+
+::: {.column width="70%"}
+![](https://images.unsplash.com/photo-1605714726527-411541ab17f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JlZW4lMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D&w=1000&q=80){fig-alt="Image of a forest" width="100%" height="100%"}
+
+::: {.small}
+https://images.unsplash.com/
+:::
+
+:::
+
+::::
+
+## Why does biodiversity matter?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+2. How would you feel if you knew that a **place like the Great Barrier Reef were to disappear**?
+:::
+
+::: {.column width="70%"}
+![](https://www.nma.gov.au/__data/assets/image/0003/629472/MA47350944-Coral-Outcrop-1200w.jpg){fig-alt="Image of Great Barrier Reef" width="100%" height="100%"}
+
+::: {.small}
+https://www.nma.gov.au/
+:::
+
+:::
+
+::::
+
+## Biodiversity has inherent value
+
+- Biodiversity has **inherent value**: it is worth something **just by existing**
+
+- Biodiversity has **cultural value**: we derive **inspiration** from it
+
+## Why does biodiversity matter?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+1. How would you feel if you **couldn't eat any fruit** because there were no bees to pollinate flowers?
+:::
+
+::: {.column width="70%"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Apis_mellifera_-_Prunus_padus_-_Keila.jpg/600px-Apis_mellifera_-_Prunus_padus_-_Keila.jpg){fig-alt="Image of bee pollinating flower" width="100%" height="100%"}
+
+::: {.small}
+https://upload.wikimedia.org/
+:::
+
+:::
+
+::::
+
+## Humans depend on biodiversity
+
+:::: {.columns}
+
+::: {.column width="30%"}
+2. How would you feel if you **didn't have access to clean drinking water** because there were no wetlands to help filter it?
+:::
+
+::: {.column width="70%"}
+![](https://upload.wikimedia.org/wikipedia/commons/8/88/Tourbi%C3%A8re_03_-_Parc_de_Frontenac_-_Juillet_2008.jpg){fig-alt="Image of wetland" width="100%" height="100%"}
+
+::: {.small}
+https://upload.wikimedia.org/
+:::
+
+:::
+
+::::
+
+## Why does biodiversity matter?
+
+- Biodiversity provides **ecosystem services**: humans benefit from the natural environment
+
+## Biodiversity is **in danger**
+
+You probably have heard this many times, but in this class we will learn about the **specific risks** posed to biodiversity, and **actionable measures** to counteract them.
+
+. . .
+
+- Climate change
+- Population growth
+- Invasive species
+
+## Biodiversity in Japan
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Did you know that **Japan is a biodiversity hotspot?**
+
+- Do you know why?
+:::
+
+::: {.column width="50%"}
+![](https://hanwellzoo.co.uk/wp-content/uploads/2017/02/0004_red-crowned-crane.jpg){fig-alt="Red-crowned cranes" width="100%" height="100%"}
+
+::: {.small}
+https://hanwellzoo.co.uk/
+:::
+
+:::
+
+::::
+
+## Japan as a biodiversity hotspot
+
+Japan has a **wide variation of climates** in a small area
+
+- Species are usually adapted for one particular kind of climate
+- This results in many species
+
+## Goals of this class
+
+By the end of the course, you will be able to:
+
+- understand the **processes generating biodiversity**
+- explain **how biodiversity is distributed** globally and in Japan
+- propose ways to effectively **conserve biodiversity**
+
+## Expectations of this class
+
+- I expect you to **participate in discussions**
+
+- I expect you to **ask questions**
+
+## Language of this class
+
+This class is **conducted in English**
+
+But, you can ask questions in Japanese and I will explain in Japanese if needed
+
+日本語でも必要に応じて大丈夫です。
+
+とにかく何か分からないことがあったら、聞いてください！
+
+## Structure of this class
+
+- Classic model: Introduce new ideas in class then complete homework assignments about them
+
+- **Flipped model**: Introduce new ideas **ahead of class** in videos, and we will learn more about those topics in depth through in-class discussions
+
+## Videos and quizzes
+
+We will watch videos from a series on biodiversity produced by the California Academy of Sciences
+
+Each is 5-10 minutes long. There are usually 3-4 videos per week.
+
+There will be a **short quiz** on the content of the video at the start of each class.
+
+## Videos and quizzes
+
+{{< video https://www.youtube.com/embed/HpDJBFflYKI width="60%" height="60%" >}}
+
+<https://www.youtube.com/embed/HpDJBFflYKI>
+
+## Schedule
+
+- Day 1, 2023-06-13
+  - Introduction: Why does biodiversity matter? (no quiz)
+
+- Day 2, 2023-06-20
+  - Levels of biodiversity
+
+- Day 3, 2023-06-27
+  - Global distribution of biodiversity
+
+- Media Day (on-demand)
+  - Distribution of biodiversity in Japan
+
+## Schedule (cont'd)
+
+- Day 4, 2023-07-4
+  - Midterm test, Ecosystems & ecosystem services (no quiz)
+
+- Day 5, 2023-07-11
+  - Threats to biodiversity
+
+- Day 6, 2023-07-18
+  - Protecting biodiversity
+
+- Day 7, 2023-07-25
+  - Final presentation (no quiz)
+
+## Moodle
+
+- **Assignments** (videos) will be posted on Moodle
+
+- Check Moodle every week
+
+## Office hours
+
+Friday 1-4 PM G1-313
+
+<joelnitta@chiba.u-jp>
+
+## Questions?
