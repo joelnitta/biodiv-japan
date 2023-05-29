@@ -46,6 +46,12 @@ execute:
 
 ::::
 
+## Ice-breaker
+
+- Answer the question: "Why are you interested in biodiversity?"
+
+- Introduce yourself and discuss with your neighbor
+
 ---
 
 ![](https://climate.copernicus.eu/sites/default/files/styles/hero_image_extra_large_2x/public/2019-10/biodiversity.jpg?itok=4yl27Tnz){fig-alt="Biodiversity image from https://climate.copernicus.eu" width="80%" height="80%"}
@@ -152,11 +158,13 @@ https://upload.wikimedia.org/
 
 You probably have heard this many times, but in this class we will learn about the **specific risks** posed to biodiversity, and **actionable measures** to counteract them.
 
-. . .
+::: {.incremental}
 
 - Climate change
 - Population growth
 - Invasive species
+
+:::
 
 ## Biodiversity in Japan
 
@@ -183,8 +191,10 @@ https://hanwellzoo.co.uk/
 
 Japan has a **wide variation of climates** in a small area
 
+::: {.incremental}
 - Species are usually adapted for one particular kind of climate
 - This results in many species
+:::
 
 ## Goals of this class
 
@@ -202,13 +212,13 @@ By the end of the course, you will be able to:
 
 ## Language of this class
 
-This class is **conducted in English**
+- This class is **conducted in English**
 
-But, you can ask questions in Japanese and I will explain in Japanese if needed
+- But, you can ask questions in Japanese and I will explain in Japanese if needed
 
-日本語でも必要に応じて大丈夫です。
+- **日本語**でも必要に応じて**大丈夫です**。
 
-とにかく何か分からないことがあったら、聞いてください！
+- とにかく何か分からないことがあったら、<br>聞いてください！
 
 ## Structure of this class
 
@@ -218,11 +228,11 @@ But, you can ask questions in Japanese and I will explain in Japanese if needed
 
 ## Videos and quizzes
 
-We will watch videos from a series on biodiversity produced by the California Academy of Sciences
+- We will watch videos from a series on biodiversity produced by the California Academy of Sciences
 
-Each is 5-10 minutes long. There are usually 3-4 videos per week.
+- Each is 5-10 minutes long. There are usually 3-4 videos per week.
 
-There will be a **short quiz** on the content of the video at the start of each class.
+- **There will be a short quiz** on the content of the video at the start of each class.
 
 ## Videos and quizzes
 
@@ -258,11 +268,18 @@ There will be a **short quiz** on the content of the video at the start of each 
 - Day 7, 2023-07-25
   - Final presentation (no quiz)
 
+## Grades
+
+- Quizzes 20%
+- Midterm 30%
+- Participation 20%
+- Final presentation 30%
+
 ## Moodle
 
 - **Assignments** (videos) will be posted on Moodle
 
-- Check Moodle every week
+- **Check Moodle every week**
 
 ## Office hours
 
