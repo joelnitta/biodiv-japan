@@ -2,12 +2,12 @@
 format:
   revealjs:
     incremental: false
-    css: styles.css
+    css: ../styles.css
 execute: 
   echo: true
 ---
 
-# Day 1, Introduction to "Biodiversity and Japan"
+# Day 1: Introduction to "Biodiversity and Japan"
 
 2023-06-13
 
@@ -252,7 +252,7 @@ By the end of the course, you will be able to:
 
 - Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
 
-![](images/NITTA9359.png){fig-alt="QR code linking to Socrative room for NITTA9359" height="400"}
+![](../images/NITTA9359.png){fig-alt="QR code linking to Socrative room for NITTA9359" height="400"}
 
 ## Schedule
 
