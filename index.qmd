@@ -7,8 +7,67 @@ toc: false
 
 - [Day 1: Introduction to "Biodiversity and Japan"](day1/index.qmd)
 
+## Videos
+
+### Watch by Day 2, 2023-06-20
+
+Global distribution of biodiversity
+
+- [How Biodiversity is Distributed Globally](https://www.calacademy.org/explore-science/how-biodiversity-is-distributed-globally)
+- [What is a Biodiversity Hotspot?](https://www.calacademy.org/explore-science/what-is-a-biodiversity-hotspot)
+- [Why Biodiversity is Distributed Unevenly](https://www.calacademy.org/explore-science/why-biodiversity-is-distributed-unevenly)
+
+### Watch by Day 3, 2023-06-27
+
+Levels of biodiversity
+
+- [Genetic Variation, Gene Flow, and New Species](https://www.calacademy.org/explore-science/genetic-variation-gene-flow-and-new-species)
+- [Genes and Biodiversity](https://www.calacademy.org/explore-science/genes-and-biodiversity)
+- [Discovering the Tree of Life](https://www.calacademy.org/explore-science/discovering-the-tree-of-life)
+
+### Watch on your schedule 
+
+(Media day, between 2023-06-27 and 2023-07-04)
+
+Distribution of biodiversity in Japan
+
+- [Field Methods for Documenting Biodiversity](https://www.calacademy.org/explore-science/field-methods-for-documenting-biodiversity)
+
+### Watch by Day 5, 2023-07-04
+
+Ecosystems & ecosystem services
+
+- [Ecosystem Services](https://www.calacademy.org/explore-science/ecosystem-services)
+- [Ecosystem Biodiversity](https://www.calacademy.org/explore-science/ecosystem-biodiversity)
+
+### Watch by Day 6, 2023-07-11
+
+Threats to biodiversity
+
+- [Human Activities That Threaten Biodiversity](https://www.calacademy.org/explore-science/human-activities-that-threaten-biodiversity)
+- [Introduced Species and Biodiversity](https://www.calacademy.org/explore-science/introduced-species-and-biodiversity)
+- [How Does Climate Change Affect Biodiversity?](https://www.calacademy.org/educators/how-does-climate-change-affect-biodiversity)
+
+### Watch by Day 7, 2023-07-18
+
+Protecting biodiversity
+
+- [Conservation and the Race to Save Biodiversity](https://www.calacademy.org/explore-science/conservation-and-the-race-to-save-biodiversity)
+- [Protecting Biodiversity: the Power of the Individual](https://www.calacademy.org/explore-science/protecting-biodiversity-the-power-of-the-individual)
+- [Protecting Biodiversity: Local and Global Policies](https://www.calacademy.org/explore-science/protecting-biodiversity-local-and-global-policies)
+- [Understanding the Past to Preserve the Future](https://www.calacademy.org/explore-science/understanding-the-past-to-preserve-the-future)
+
+## Important Dates
+
+- Day 2, 2023-06-20: Quiz
+- Day 3, 2023-06-27: Quiz
+- Day 5, 2023-07-04: Midterm test
+- Day 6, 2023-07-11: Quiz
+- Day 7, 2023-07-18: Quiz
+- Day 8, 2023-07-25: Final presentation
+
 ## Syllabus
 
-- [English]()
+- [English](https://syllabus.gs.chiba-u.jp/2023/401001000000000/G15N945001/en_US)
 
-- [日本語]()
+- [日本語](https://syllabus.gs.chiba-u.jp/2023/401001000000000/G15N945001/ja_JP)

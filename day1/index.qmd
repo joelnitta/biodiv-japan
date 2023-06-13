@@ -244,9 +244,9 @@ By the end of the course, you will be able to:
 
 ## Quizzes
 
-- **There will be a short quiz** (ca. 10 min.) on the content of the video at the start of each class.
+- **There will be a short quiz** (ca. 5-10 min.) on the content of the video at the start of each class.
 
-- **Bring your laptop or smartphone** to take the quiz on [Socrative](https://www.socrative.com/)
+- **Bring your laptop or smartphone** to take the quiz on [Socrative](https://www.socrative.com/).
 
 ## Sample quiz
 
@@ -265,7 +265,7 @@ By the end of the course, you will be able to:
 - Day 3, 2023-06-20
   - Levels of biodiversity
 
-- Day 4, Media Day (on-demand)
+- Day 4, Media Day (on-demand, no quiz)
   - Distribution of biodiversity in Japan
 
 ## Schedule (cont'd)
@@ -290,11 +290,11 @@ By the end of the course, you will be able to:
 - Participation 20%
 - Final presentation 30%
 
-## Slides
+NO make-ups
 
-- All slides available at<br><https://joelnitta.github.io/biodiv-japan/>
+## Course website and slides
 
-- Click menu button on lower-left to jump to a topic (day)
+- All slides (and other info) available at<br><https://joelnitta.github.io/biodiv-japan/>
 
 ## Moodle
 
