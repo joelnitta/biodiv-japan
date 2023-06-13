@@ -19,6 +19,9 @@ execute:
 - Research topic 1: Ecology and evolution of **ferns**
 
 - Research topic 2: Development of software for **data science**
+  - Upcoming course [Reproducible data analysis](https://syllabus.gs.chiba-u.jp/2023/101101101076000/Z011531301/en_US), 4th term
+
+- <https://www.joelnitta.com>
 :::
 
 ::: {.column width="50%"}
@@ -290,7 +293,7 @@ By the end of the course, you will be able to:
 - Participation 20%
 - Final presentation 30%
 
-NO make-ups
+**No late submissions allowed**
 
 ## Course website and slides
 
