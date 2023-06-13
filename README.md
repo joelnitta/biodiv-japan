@@ -9,7 +9,7 @@ Instructor: Assoc. Prof. [Joel H. Nitta](https://www.joelnitta.com)
 
 ## Course website
 
-<joelnitta.github.io/biodiv-japan/>
+<https://joelnitta.github.io/biodiv-japan/>
 
 ## Syllabus
 
