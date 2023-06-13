@@ -5,7 +5,11 @@ Materials for course "Biodiversity and Japan" at Chiba University
 2nd term, 2023  
 Tuesdays 3rd period
 
-Instructor Assoc. Prof. [Joel H. Nitta](https://www.joelnitta.com)
+Instructor: Assoc. Prof. [Joel H. Nitta](https://www.joelnitta.com)
+
+## Course website
+
+<joelnitta.github.io/biodiv-japan/>
 
 ## Syllabus
 
