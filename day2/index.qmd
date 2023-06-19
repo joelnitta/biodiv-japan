@@ -166,11 +166,19 @@ In your group, discuss:
 
 One person per group answer on Socrative
 
-## Activity
+## Activity: Join on Socrative
 
 - Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
 
 ![](../images/NITTA9359.png){fig-alt="QR code linking to Socrative room for NITTA9359" height="400"}
+
+## Activity: Find your team name
+
+![](../images/team_location.png){fig-alt="Location of team name" height="500"}
+
+## Activity: Team Seating Chart
+
+![](../images/space-race-groups.png){fig-alt="Space race seating groups" height="500"}
 
 ## What are species anyways?
 
@@ -186,11 +194,19 @@ In your group, discuss:
 
 One person per group answer on Socrative
 
-## Activity
+## Activity: Join on Socrative
 
 - Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
 
 ![](../images/NITTA9359.png){fig-alt="QR code linking to Socrative room for NITTA9359" height="400"}
+
+## Activity: Find your team name
+
+![](../images/team_location.png){fig-alt="Location of team name" height="500"}
+
+## Activity: Team Seating Chart
+
+![](../images/space-race-groups.png){fig-alt="Space race seating groups" height="500"}
 
 ## Species concepts
 
