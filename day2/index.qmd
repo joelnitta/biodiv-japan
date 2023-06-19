@@ -101,6 +101,48 @@ Schipper et al. 2008, *Science* 225--230
 - Evolution 進化
 - Humans
 
+These affect ranges of individual species, **and** species richness
+
+---
+
+![](../images/range_moose.png){}
+
+---
+
+![](../images/range_bird.png){}
+
+---
+
+![](../images/range_combined.png){}
+
+## Climate
+
+![](../images/temperature_range.png){}
+
+## Climate
+
+![](../images/japan_ferns_richness.png){}
+
+## Biotic interactions
+
+![](../images/factors_biotic.png){}
+
+## Evolution
+
+![](../images/urchin_tree.png){}
+
+## Evolution
+
+![](../images/urchin-tree-chance.png){}
+
+## Evolution
+
+![](../images/lomaridium_biogeo.png){}
+
+::: {.medsmall}
+Vicent et al. _Taxon_ 66, 2017
+:::
+
 ## Hotspots are areas of exceptionally high richness
 
 Hotspots have high richness **and** are in danger: these are the areas that we should focus on conserving
@@ -124,7 +166,7 @@ In your group, discuss:
 
 One person per group answer on Socrative
 
-## Activity: How do you experience biodiversity?
+## Activity
 
 - Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
 
@@ -144,7 +186,7 @@ In your group, discuss:
 
 One person per group answer on Socrative
 
-## Activity: What are species anyways?
+## Activity
 
 - Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
 
