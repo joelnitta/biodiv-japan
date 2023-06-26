@@ -1,0 +1,168 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 3: Levels of biodiversity
+
+2023-06-27
+
+## Species concepts
+
+- There is no one right answer to the question, "What are species?"
+
+- Instead, there are different **species concepts**
+  - 種概念、「種」の定義
+
+## Biological Species Concept (BSC)<br>生物学的種概念
+
+- According to the BSC, species are groups of individuals that can **interbreed** with each other, but not other species
+  - interbreed = 繁殖する
+
+- Appearance does not matter
+  - 見た目は関係ない
+
+## Western meadowlark vs. Eastern meadowlark (different species)
+
+![](https://evolution.berkeley.edu/wp-content/uploads/2021/10/meadowlark_comparison.jpg){}
+
+::: {.medsmall}
+https://evolution.berkeley.edu/biological-species-concept/
+:::
+
+## Ant castes (same species)
+
+![](https://evolution.berkeley.edu/wp-content/uploads/2021/11/ants_differentforms.jpg){fig-alt="alt-text"}
+
+::: {.medsmall}
+https://evolution.berkeley.edu/biological-species-concept/
+:::
+
+## Horse and donkey (different species)
+
+![](https://images.ctfassets.net/vrrt8fsfwf0e/1CmVkvJmp6oivxpTLwDGjf/d2f414616475bf132a66ca082708b95e/Biological_species_concept_Art_2.svg){fig-alt="Illustration of donkey and mule as separate species"}
+
+::: {.medsmall}
+Horse うま Donkey ロバ Mule ラバ  
+https://www.chegg.com/learn/topic/biological-species-concept
+:::
+
+## Why the BSC?
+
+- Members of the same species **can exchange genes**
+
+- Members of different species cannot
+
+- Member of the same species are an **evolutionary unit**
+
+## Speciation
+
+![](https://evolution.berkeley.edu/wp-content/uploads/2021/09/beetles_speciation_2.png){fig-alt="UC Berkeley evolution course image showing speciation"}
+
+::: {.medsmall}
+https://evolution.berkeley.edu/
+:::
+
+## Why measure biodiversity using species?
+
+. . .
+
+- Conceptually simple
+
+- According to the BSC, we are preserving evolutionary units
+
+## Are there any disadvantages to measuring biodiversity with species richness?
+
+. . .
+
+- Does not account for evolutionary history
+
+- The BSC is difficult to test experimentally
+
+- The BSC does not apply to all organisms
+
+## Biodiversity is not just about species
+
+- Diversity exists **within** species
+
+- Species have **evolutionary history**
+
+## Alleles
+![](https://cdn.kastatic.org/ka-perseus-images/89d45d800d01c4b3d58c98ffb068c4c532e80dc5.png){fig-alt="alleles in peas"}
+
+Allele = alternative versions of a gene
+
+アリル = 対立遺伝子。一つの遺伝子に複数の種類があった場合、その一つ。
+
+## Alleles
+![](https://cdn.kastatic.org/ka-perseus-images/89d45d800d01c4b3d58c98ffb068c4c532e80dc5.png){fig-alt="alleles in peas"}
+
+Phenotype = 表現型  
+Genotype = 遺伝子型
+
+## Gene pool
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](https://cdn.kastatic.org/ka-perseus-images/99ea55f060bede5f0b4ba1e37f1e7d7d9a86db81.png){fig-alt="gene pool of peas"}
+:::
+
+::: {.column width="50%"}
+Gene pool = the total genetic diversity within a population or species
+
+遺伝子プール：種あるいは集団の中に存在する遺伝子の総体
+:::
+
+::::
+
+## Activity: which is more diverse?
+
+![](../images/which-diverse-alleles.png)
+
+## Populations with low genetic diversity are vulnerable
+
+- Genetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct
+
+## Phylogenetic trees represent evolution
+
+![](https://cdn.kastatic.org/ka-perseus-images/6a7912e4f113f2e0dde68a8292aa06170e1cff00.png)
+
+## Phylogenetic trees represent evolution
+
+![](https://cdn.kastatic.org/ka-perseus-images/aa95c701ebf845d93fed8362da63cbcc8439fb31.png)
+
+## Phylogenetic trees tell us about biogeography of Japan
+
+![](../images/primula.png)
+
+## Group Activity: Build a phylogenetic tree
+
+## Activity: Which area is more diverse?
+
+<!-- 
+Area 1: three species of plants
+
+Area 2: one tree, one lizard, one insect
+-->
+
+## About the midterm (7/4)
+
+- Topics covered
+  - Day 2, Global distribution of biodiversity
+  - Day 3, Levels of biodiversity
+  - Media day, Distribution of biodiversity in Japan
+
+## About the midterm (7/4)
+
+- 30 minutes long
+
+- Multiple choice and short answer
+
+- No computers or smartphones
+
+- 1 page (A4, both sides) of hand-written notes allowed

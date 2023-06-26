@@ -33,8 +33,6 @@ Levels of biodiversity
 
 Distribution of biodiversity in Japan
 
-- [Field Methods for Documenting Biodiversity](https://www.calacademy.org/explore-science/field-methods-for-documenting-biodiversity)
-
 ### Watch by Day 5, 2023-07-04
 
 Ecosystems & ecosystem services
@@ -44,8 +42,9 @@ Ecosystems & ecosystem services
 
 ### Watch by Day 6, 2023-07-11
 
-Threats to biodiversity
+Documenting biodiversity, Threats to biodiversity
 
+- [Field Methods for Documenting Biodiversity](https://www.calacademy.org/explore-science/field-methods-for-documenting-biodiversity)
 - [Human Activities That Threaten Biodiversity](https://www.calacademy.org/explore-science/human-activities-that-threaten-biodiversity)
 - [Introduced Species and Biodiversity](https://www.calacademy.org/explore-science/introduced-species-and-biodiversity)
 - [How Does Climate Change Affect Biodiversity?](https://www.calacademy.org/educators/how-does-climate-change-affect-biodiversity)

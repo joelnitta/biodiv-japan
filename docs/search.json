@@ -709,9 +709,9 @@
   {
     "objectID": "day3/index.html#biodiversity-is-not-just-about-species",
     "href": "day3/index.html#biodiversity-is-not-just-about-species",
-    "title": "Day 3: Levels of biodiversity",
-    "section": "",
-    "text": "Diversity exists within species\nSpecies have evolutionary history"
+    "title": "Biodiversity and Japan",
+    "section": "Biodiversity is not just about species",
+    "text": "Biodiversity is not just about species\n\nDiversity exists within species\nSpecies have evolutionary history"
   },
   {
     "objectID": "day3/index.html#diversity-within-species",
@@ -723,29 +723,414 @@
   {
     "objectID": "day3/index.html#populations-with-low-genetic-diversity-are-vulnerable",
     "href": "day3/index.html#populations-with-low-genetic-diversity-are-vulnerable",
-    "title": "Day 3: Levels of biodiversity",
-    "section": "",
-    "text": "Genetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct"
+    "title": "Biodiversity and Japan",
+    "section": "Populations with low genetic diversity are vulnerable",
+    "text": "Populations with low genetic diversity are vulnerable\n\nGenetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct"
   },
   {
     "objectID": "day3/index.html#phylogenetic-trees-represent-evolution",
     "href": "day3/index.html#phylogenetic-trees-represent-evolution",
-    "title": "Day 3: Levels of biodiversity",
-    "section": "",
-    "text": "All life descends from a single origin\nNew branches split off when new species evolve"
+    "title": "Biodiversity and Japan",
+    "section": "Phylogenetic trees represent evolution",
+    "text": "Phylogenetic trees represent evolution"
   },
   {
     "objectID": "day3/index.html#how-to-read-a-phylogeny",
     "href": "day3/index.html#how-to-read-a-phylogeny",
-    "title": "Day 3: Levels of biodiversity",
-    "section": "",
-    "text": "Node represents shared ancestor\nTip represent current organism (species)\nLine represents connection between ancestor and descendants"
+    "title": "Biodiversity and Japan",
+    "section": "How to read a phylogeny",
+    "text": "How to read a phylogeny\n\nNode represents shared ancestor\nTip represent current organism (species)\nLine represents connection between ancestor and descendants"
   },
   {
     "objectID": "day3/index.html#we-can-measure-biodiversity-with-a-phylogenetic-tree",
     "href": "day3/index.html#we-can-measure-biodiversity-with-a-phylogenetic-tree",
-    "title": "Day 3: Levels of biodiversity",
-    "section": "",
-    "text": "Phylogenetic Diversity (PD) = sum of branchlengths of all species living in an area"
+    "title": "Biodiversity and Japan",
+    "section": "We can measure biodiversity with a phylogenetic tree",
+    "text": "We can measure biodiversity with a phylogenetic tree\nPhylogenetic Diversity (PD) = sum of branchlengths of all species living in an area"
+  },
+  {
+    "objectID": "day3/index.html#allele",
+    "href": "day3/index.html#allele",
+    "title": "Biodiversity and Japan",
+    "section": "Allele",
+    "text": "Allele\n\nAllele = alternative versions of a gene\nアリル = 対立遺伝子。一つの遺伝子に複数の種類があった場合、その一つ。"
+  },
+  {
+    "objectID": "day3/index.html#gene-pool",
+    "href": "day3/index.html#gene-pool",
+    "title": "Biodiversity and Japan",
+    "section": "Gene pool",
+    "text": "Gene pool\n\n\n\n\nGene pool = the total genetic diversity within a population or species\n遺伝子プール：種あるいは集団の中に存在する遺伝子の総体"
+  },
+  {
+    "objectID": "day3/index.html#example-mendels-peas",
+    "href": "day3/index.html#example-mendels-peas",
+    "title": "Biodiversity and Japan",
+    "section": "Example: mendel’s peas",
+    "text": "Example: mendel’s peas"
+  },
+  {
+    "objectID": "day3/index.html#activity-which-is-more-diverse",
+    "href": "day3/index.html#activity-which-is-more-diverse",
+    "title": "Biodiversity and Japan",
+    "section": "Activity: which is more diverse?",
+    "text": "Activity: which is more diverse?"
+  },
+  {
+    "objectID": "day3/index.html#activity-which-are-more-closely-related",
+    "href": "day3/index.html#activity-which-are-more-closely-related",
+    "title": "Biodiversity and Japan",
+    "section": "Activity: Which are more closely related?",
+    "text": "Activity: Which are more closely related?"
+  },
+  {
+    "objectID": "day3/index.html#relatedness-is-determined-by-relationships-not-position",
+    "href": "day3/index.html#relatedness-is-determined-by-relationships-not-position",
+    "title": "Biodiversity and Japan",
+    "section": "Relatedness is determined by relationships, not position",
+    "text": "Relatedness is determined by relationships, not position"
+  },
+  {
+    "objectID": "day3/index.html#activity-which-area-is-more-diverse",
+    "href": "day3/index.html#activity-which-area-is-more-diverse",
+    "title": "Biodiversity and Japan",
+    "section": "Activity: Which area is more diverse?",
+    "text": "Activity: Which area is more diverse?"
+  },
+  {
+    "objectID": "day3/index.html#species-concepts",
+    "href": "day3/index.html#species-concepts",
+    "title": "Biodiversity and Japan",
+    "section": "Species concepts",
+    "text": "Species concepts\n\nThere is no one right answer to the question, “What are species?”\nInstead, there are different species concepts\n\n種概念、「種」の定義"
+  },
+  {
+    "objectID": "day3/index.html#biological-species-concept-bsc-生物学的種概念",
+    "href": "day3/index.html#biological-species-concept-bsc-生物学的種概念",
+    "title": "Biodiversity and Japan",
+    "section": "Biological Species Concept (BSC)生物学的種概念",
+    "text": "Biological Species Concept (BSC)生物学的種概念\n\nAccording to the BSC, species are groups of individuals that can interbreed with each other, but not other species\n\ninterbreed = 繁殖する\n\nAppearance does not matter\n\n見た目は関係ない"
+  },
+  {
+    "objectID": "day3/index.html#western-meadowlark-vs.-eastern-meadowlark-different-species",
+    "href": "day3/index.html#western-meadowlark-vs.-eastern-meadowlark-different-species",
+    "title": "Biodiversity and Japan",
+    "section": "Western meadowlark vs. Eastern meadowlark (different species)",
+    "text": "Western meadowlark vs. Eastern meadowlark (different species)\n\n\nhttps://evolution.berkeley.edu/biological-species-concept/"
+  },
+  {
+    "objectID": "day3/index.html#ant-castes-same-species",
+    "href": "day3/index.html#ant-castes-same-species",
+    "title": "Biodiversity and Japan",
+    "section": "Ant castes (same species)",
+    "text": "Ant castes (same species)\n\n\nhttps://evolution.berkeley.edu/biological-species-concept/"
+  },
+  {
+    "objectID": "day3/index.html#horse-and-donkey-different-species",
+    "href": "day3/index.html#horse-and-donkey-different-species",
+    "title": "Biodiversity and Japan",
+    "section": "Horse and donkey (different species)",
+    "text": "Horse and donkey (different species)\n\n\nHorse うま Donkey ロバ Mule ラバ\nhttps://www.chegg.com/learn/topic/biological-species-concept"
+  },
+  {
+    "objectID": "day3/index.html#why-the-bsc",
+    "href": "day3/index.html#why-the-bsc",
+    "title": "Biodiversity and Japan",
+    "section": "Why the BSC?",
+    "text": "Why the BSC?\n\nMembers of the same species can exchange genes\nMembers of different species cannot\nMember of the same species are an evolutionary unit"
+  },
+  {
+    "objectID": "day3/index.html#speciation",
+    "href": "day3/index.html#speciation",
+    "title": "Biodiversity and Japan",
+    "section": "Speciation",
+    "text": "Speciation\n\n\nhttps://evolution.berkeley.edu/"
+  },
+  {
+    "objectID": "day3/index.html#why-measure-biodiversity-using-species",
+    "href": "day3/index.html#why-measure-biodiversity-using-species",
+    "title": "Biodiversity and Japan",
+    "section": "Why measure biodiversity using species?",
+    "text": "Why measure biodiversity using species?\n\n\nConceptually simple\nAccording to the BSC, we are preserving evolutionary units"
+  },
+  {
+    "objectID": "day3/index.html#are-there-any-disadvantages-to-measuring-biodiversity-with-species-richness",
+    "href": "day3/index.html#are-there-any-disadvantages-to-measuring-biodiversity-with-species-richness",
+    "title": "Biodiversity and Japan",
+    "section": "Are there any disadvantages to measuring biodiversity with species richness?",
+    "text": "Are there any disadvantages to measuring biodiversity with species richness?\n\n\nDoes not account for evolutionary history\nThe BSC is difficult to test experimentally\nThe BSC does not apply to all organisms"
+  },
+  {
+    "objectID": "day3/index.html#alleles",
+    "href": "day3/index.html#alleles",
+    "title": "Biodiversity and Japan",
+    "section": "Alleles",
+    "text": "Alleles\n\nAllele = alternative versions of a gene\nアリル = 対立遺伝子。一つの遺伝子に複数の種類があった場合、その一つ。"
+  },
+  {
+    "objectID": "day3/index.html#alleles-1",
+    "href": "day3/index.html#alleles-1",
+    "title": "Biodiversity and Japan",
+    "section": "Alleles",
+    "text": "Alleles\n\nPhenotype = 表現型\nGenotype = 遺伝子型"
+  },
+  {
+    "objectID": "day3/index.html#phylogenetic-trees-represent-evolution-1",
+    "href": "day3/index.html#phylogenetic-trees-represent-evolution-1",
+    "title": "Biodiversity and Japan",
+    "section": "Phylogenetic trees represent evolution",
+    "text": "Phylogenetic trees represent evolution"
+  },
+  {
+    "objectID": "day3/index.html#group-activity-build-a-phylogenetic-tree",
+    "href": "day3/index.html#group-activity-build-a-phylogenetic-tree",
+    "title": "Biodiversity and Japan",
+    "section": "Group Activity: Build a phylogenetic tree",
+    "text": "Group Activity: Build a phylogenetic tree"
+  },
+  {
+    "objectID": "day3/index.html#phylogenetic-trees-tell-us-about-biogeography-in-japan",
+    "href": "day3/index.html#phylogenetic-trees-tell-us-about-biogeography-in-japan",
+    "title": "Biodiversity and Japan",
+    "section": "Phylogenetic trees tell us about biogeography in Japan",
+    "text": "Phylogenetic trees tell us about biogeography in Japan"
+  },
+  {
+    "objectID": "day4/index.html#introduction",
+    "href": "day4/index.html#introduction",
+    "title": "Biodiversity and Japan",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe can’t cover everything there is to know about the biodiversity of Japan in one lecture, or one class.\n日本の生物多様性は非常に大きなトピックなので、一回の授業、あるいは一つの授業だけはとてもカバーが出来ません。"
+  },
+  {
+    "objectID": "day4/index.html#japan-has-diverse-climates",
+    "href": "day4/index.html#japan-has-diverse-climates",
+    "title": "Biodiversity and Japan",
+    "section": "Japan has diverse climates",
+    "text": "Japan has diverse climates\n\n\n\nJapan has a long shape from North to South\nVariation in climate from N (subarctic) to S (subtropical)\nVariation in elevation (many mountains)"
+  },
+  {
+    "objectID": "day4/index.html#japan-has-complicated-geography",
+    "href": "day4/index.html#japan-has-complicated-geography",
+    "title": "Biodiversity and Japan",
+    "section": "Japan has complicated geography",
+    "text": "Japan has complicated geography\n\n\n\nSituated at boundaries of multiple tectonic plates 複数のプレートが一緒になるところに位置する\nExtremely high geologic activity (earthquakes and mountain formation) 地震や火山が多い\n\n\n\n\nhttps://www.researchgate.net/profile/W-Spakman/publication/353594344"
+  },
+  {
+    "objectID": "day4/index.html#glaciers-come-and-go-in-cycles",
+    "href": "day4/index.html#glaciers-come-and-go-in-cycles",
+    "title": "Biodiversity and Japan",
+    "section": "Glaciers come and go in cycles",
+    "text": "Glaciers come and go in cycles\n\nWhen glaciers are large (glacial maximum 氷期), sea levels are low\nWhen glaciers are small (inter-glacial periods 間氷期), sea levels are high\nGlacial maxima and inter-glacial periods repeat in a cycle　氷期と間氷期が繰り返される\nIt is currently an inter-glacial period　現在は間氷期"
+  },
+  {
+    "objectID": "day4/index.html#japan-repeatedly-re-connected-to-the-continent",
+    "href": "day4/index.html#japan-repeatedly-re-connected-to-the-continent",
+    "title": "Biodiversity and Japan",
+    "section": "Japan repeatedly re-connected to the continent",
+    "text": "Japan repeatedly re-connected to the continent\n\nAnimals and plants moved into Japan from the mainland when it was connected (glacial maxima)\nThey became isolated and evolved into new species during inter-glacial periods"
+  },
+  {
+    "objectID": "day4/index.html#deep-sea-troughs-shape-biodiversity",
+    "href": "day4/index.html#deep-sea-troughs-shape-biodiversity",
+    "title": "Biodiversity and Japan",
+    "section": "Deep-sea troughs shape biodiversity",
+    "text": "Deep-sea troughs shape biodiversity\n\n\n\nThe water is very deep in the Tsugaru strait between Hokkaido and Honshu, so those did not become connected during the LGM 津軽海峡がとても深いので、最終氷期極大期の間でも北海道と本州がつながることはなかった。\n\n\n\n\nModified from https://upload.wikimedia.org/wikipedia/commons/d/d9/Japan_glaciation.gif"
+  },
+  {
+    "objectID": "day4/index.html#case-study-the-ferns-of-japan",
+    "href": "day4/index.html#case-study-the-ferns-of-japan",
+    "title": "Biodiversity and Japan",
+    "section": "Case study: the ferns of Japan",
+    "text": "Case study: the ferns of Japan\n\nCitizen-science project that involved members of the Japan Fernist Association (Nihon shida no kai) to collect obervations of ferns throughout Japan\nAlso used specimens from museums collected over &gt;100 years by botanists"
+  },
+  {
+    "objectID": "day4/index.html#japanese-ferns-have-highest-species-richness-in-shikoku",
+    "href": "day4/index.html#japanese-ferns-have-highest-species-richness-in-shikoku",
+    "title": "Biodiversity and Japan",
+    "section": "Japanese ferns have highest species richness in Shikoku",
+    "text": "Japanese ferns have highest species richness in Shikoku"
+  },
+  {
+    "objectID": "day4/index.html#japanese-ferns-have-highest-phylogenetic-diversity-in-okinawa",
+    "href": "day4/index.html#japanese-ferns-have-highest-phylogenetic-diversity-in-okinawa",
+    "title": "Biodiversity and Japan",
+    "section": "Japanese ferns have highest phylogenetic diversity in Okinawa",
+    "text": "Japanese ferns have highest phylogenetic diversity in Okinawa"
+  },
+  {
+    "objectID": "day4/index.html#climate-is-more-important-than-distance-for-ferns",
+    "href": "day4/index.html#climate-is-more-important-than-distance-for-ferns",
+    "title": "Biodiversity and Japan",
+    "section": "Climate is more important than distance for ferns",
+    "text": "Climate is more important than distance for ferns"
+  },
+  {
+    "objectID": "day4/index.html#glaciers-come-and-go-in-cycles-1",
+    "href": "day4/index.html#glaciers-come-and-go-in-cycles-1",
+    "title": "Biodiversity and Japan",
+    "section": "Glaciers come and go in cycles",
+    "text": "Glaciers come and go in cycles\n\n\nisotope = 同位体\nhttp://coastalchange.ucsd.edu/st4_climatechange/sealevel.html"
+  },
+  {
+    "objectID": "day4/index.html#glaciers-change",
+    "href": "day4/index.html#glaciers-change",
+    "title": "Biodiversity and Japan",
+    "section": "Glaciers change",
+    "text": "Glaciers change\n\n\n\nGlaciers grow and shrink due to changes in global temperature\n\n\n\n\nhttps://www.snexplores.org/article/scientists-say-glacier"
+  },
+  {
+    "objectID": "day4/index.html#last-glacial-maximum-lgm",
+    "href": "day4/index.html#last-glacial-maximum-lgm",
+    "title": "Biodiversity and Japan",
+    "section": "Last glacial maximum (LGM)",
+    "text": "Last glacial maximum (LGM)\n\n\nhttps://www.iro.umontreal.ca/~vaucher/History/Evolution/images/Climate/IceAge_World.jpg"
+  },
+  {
+    "objectID": "day4/index.html#japan-is-affected-by-glaciers",
+    "href": "day4/index.html#japan-is-affected-by-glaciers",
+    "title": "Biodiversity and Japan",
+    "section": "Japan is affected by glaciers",
+    "text": "Japan is affected by glaciers\n\n\n\nGlaciers grow and shrink due to changes in global temperature 氷河は地球の温度に伴い、大きくなったり縮んだりする\n\n\n\n\nhttps://www.snexplores.org/article/scientists-say-glacier"
+  },
+  {
+    "objectID": "day4/index.html#deep-sea-troughs-shape-biodiversity-1",
+    "href": "day4/index.html#deep-sea-troughs-shape-biodiversity-1",
+    "title": "Biodiversity and Japan",
+    "section": "Deep-sea troughs shape biodiversity",
+    "text": "Deep-sea troughs shape biodiversity\n\nAnimals that cannot easily cross over water could not disperse from Hokkaido into Honshu 水を簡単に渡れない動物は、北海道から本州に入ることが出来なかった。\nThere is a major difference in species between Hokkaido and Honshu today 現在、北海道と本州の間には大きな種の違いがある。\nThis border is known as “Blakiston’s line” この境界線は “ブラキストン線”と呼ばれている"
+  },
+  {
+    "objectID": "day4/index.html#deep-sea-troughs-shape-biodiversity-2",
+    "href": "day4/index.html#deep-sea-troughs-shape-biodiversity-2",
+    "title": "Biodiversity and Japan",
+    "section": "Deep-sea troughs shape biodiversity",
+    "text": "Deep-sea troughs shape biodiversity\n\n\nhttps://note.com/htmf/n/nd7c6e0006c2c"
+  },
+  {
+    "objectID": "day4/index.html#recommended-reading",
+    "href": "day4/index.html#recommended-reading",
+    "title": "Biodiversity and Japan",
+    "section": "Recommended reading",
+    "text": "Recommended reading\n\n\n“Japan: The Natural History of an Asian Archipelago”, by Mark Brazil"
+  },
+  {
+    "objectID": "day4/index.html#deep-sea-troughs-shape-biodiversity-3",
+    "href": "day4/index.html#deep-sea-troughs-shape-biodiversity-3",
+    "title": "Biodiversity and Japan",
+    "section": "Deep-sea troughs shape biodiversity",
+    "text": "Deep-sea troughs shape biodiversity\n\n\n\nSimilar gaps exist in the Ryukyu archipelago\n\n\n\n\nhttps://www.nies.go.jp/kokusai/tpm/tpm8/download/part2/p2_s2_11.pdf"
+  },
+  {
+    "objectID": "day4/index.html#global-sea-levels-were-lower-during-the-last-glacial-maximum-lgm",
+    "href": "day4/index.html#global-sea-levels-were-lower-during-the-last-glacial-maximum-lgm",
+    "title": "Biodiversity and Japan",
+    "section": "Global sea levels were lower during the last glacial maximum (LGM)",
+    "text": "Global sea levels were lower during the last glacial maximum (LGM)\n\n\nLGM = 最終氷期極大期\nhttps://www.iro.umontreal.ca/~vaucher/History/Evolution/images/Climate/IceAge_World.jpg"
+  },
+  {
+    "objectID": "day4/index.html#japan-has-diverse-climate",
+    "href": "day4/index.html#japan-has-diverse-climate",
+    "title": "Biodiversity and Japan",
+    "section": "Japan has diverse climate",
+    "text": "Japan has diverse climate\n\n\n\nJapan has a long shape from North to South 日本は南北に長い\nVariation in climate: subarctic 亜寒帯to subtropical 亜熱帯\nVariation in elevation\nHighly diverse ecosystems"
+  },
+  {
+    "objectID": "day4/index.html#japan-has-exceptionally-high-biodiversity",
+    "href": "day4/index.html#japan-has-exceptionally-high-biodiversity",
+    "title": "Biodiversity and Japan",
+    "section": "Japan has exceptionally high biodiversity",
+    "text": "Japan has exceptionally high biodiversity\n\n\nExample: Native species in Japan (378,000 sq km) vs. British Isles (315,000 sq km) 日本とイギリスの種数の比較（native = 在来種）\n\n\nPlants: 5,300 vs. 1,623\nFish: 3,850 vs. 315\nMammals: 107 vs. 42\n\n\n\n\nhttps://www.maff.go.jp/hokuriku/kokuei/shinacho/attach/pdf/koho-8.pdf"
+  },
+  {
+    "objectID": "day4/index.html#summary-of-key-concepts",
+    "href": "day4/index.html#summary-of-key-concepts",
+    "title": "Biodiversity and Japan",
+    "section": "Summary of key concepts",
+    "text": "Summary of key concepts\n\nJapan has diverse climate, which means many species adapted for different climates live in a small area 日本には多様な気候があり、異なる気候に適応した多くの種が狭い地域に生息している。\nJapan has complicated geological history, which means many different species evolved over time 日本には複雑な地質学的歴史があり、そのために様々な種が進化することが出来た。\nGrowth of glaciers affects sea level, and thereby connections between islands 氷河の成長は海面に影響を与え、それによって島と島のつながりが変化する。"
+  },
+  {
+    "objectID": "day4/index.html#activity",
+    "href": "day4/index.html#activity",
+    "title": "Biodiversity and Japan",
+    "section": "Activity",
+    "text": "Activity\n\nPlease fill out the Google Form for the activity"
+  },
+  {
+    "objectID": "day4/index.html#japan-has-diverse-ecosystems",
+    "href": "day4/index.html#japan-has-diverse-ecosystems",
+    "title": "Biodiversity and Japan",
+    "section": "Japan has diverse ecosystems",
+    "text": "Japan has diverse ecosystems"
+  },
+  {
+    "objectID": "day4/index.html#japan-has-complicated-geography-1",
+    "href": "day4/index.html#japan-has-complicated-geography-1",
+    "title": "Biodiversity and Japan",
+    "section": "Japan has complicated geography",
+    "text": "Japan has complicated geography\n\n\n\nSeparated from mainland ca. 25 million years ago やく2,500万年前に大陸から離れた\nRe-connected at three points　３カ所で再度に大陸と繋がった\n\nHokkadio to Russia\nHonshu to Korea\nOkinawa to Taiwan"
+  },
+  {
+    "objectID": "day4/index.html#but-the-story-is-not-that-simple",
+    "href": "day4/index.html#but-the-story-is-not-that-simple",
+    "title": "Biodiversity and Japan",
+    "section": "But the story is not that simple…",
+    "text": "But the story is not that simple…\n\n\n\nRecently, ancient DNA of brown bears was found in Honshu, indicating that they may have crossed the Tsugaru strait during the LGM 最近、ヒグマの古代DNAが本州から発見され、最終氷期極大期にヒグマが津軽海峡を渡った可能性が示された\n\n\nSegawa et al. 2021 https://doi.org/10.1098/rsos.210518"
+  },
+  {
+    "objectID": "day4/index.html#similar-gaps-in-southern-japan",
+    "href": "day4/index.html#similar-gaps-in-southern-japan",
+    "title": "Biodiversity and Japan",
+    "section": "Similar gaps in southern Japan",
+    "text": "Similar gaps in southern Japan\n琉球列島にも似たようなパターンがある\n\n\nhttps://www.nies.go.jp/kokusai/tpm/tpm8/download/part2/p2_s2_11.pdf"
+  },
+  {
+    "objectID": "day4/index.html#activity-exploring-biodiversity-patterns-in-japan",
+    "href": "day4/index.html#activity-exploring-biodiversity-patterns-in-japan",
+    "title": "Biodiversity and Japan",
+    "section": "Activity: Exploring biodiversity patterns in Japan",
+    "text": "Activity: Exploring biodiversity patterns in Japan\n\nIn this activity, you will use an interactive map (https://biodiversity-map.thinknature-japan.com/en/) to explore patterns of biodiversity in native vascular plants of Japan\nこのアクティビティでは、インタラクティブ・マップ（https://biodiversity-map.thinknature-japan.com/en/）を使って、日本の維管束植物の生物多様性のパターンを探ります。"
+  },
+  {
+    "objectID": "day4/index.html#connections-to-the-continent-shaped-biodiversity",
+    "href": "day4/index.html#connections-to-the-continent-shaped-biodiversity",
+    "title": "Biodiversity and Japan",
+    "section": "Connections to the continent shaped biodiversity",
+    "text": "Connections to the continent shaped biodiversity\n\nAnimals and plants moved into Japan from the mainland when it was connected (glacial maxima)\nThey became isolated and evolved into new species"
+  },
+  {
+    "objectID": "day4/index.html#example-stoneflies",
+    "href": "day4/index.html#example-stoneflies",
+    "title": "Biodiversity and Japan",
+    "section": "Example: Stoneflies",
+    "text": "Example: Stoneflies\n\n\nカワゲラ\nTojo et al. 2017 10.1111/ens.12261"
+  },
+  {
+    "objectID": "day4/index.html#connections-to-the-continent-shaped-biodiversity-in-japan",
+    "href": "day4/index.html#connections-to-the-continent-shaped-biodiversity-in-japan",
+    "title": "Biodiversity and Japan",
+    "section": "Connections to the continent shaped biodiversity in Japan",
+    "text": "Connections to the continent shaped biodiversity in Japan\n\nOrganisms moved into Japan from the mainland when it was connected (glacial maxima) 氷期の間に日本は大陸と繋がっていたので、生物たちが日本へ渡ることができた\nThey became isolated and evolved into new species 日本で隔離されるようになって、新しい種へと進化した"
+  },
+  {
+    "objectID": "day4/index.html#introduction-1",
+    "href": "day4/index.html#introduction-1",
+    "title": "Biodiversity and Japan",
+    "section": "Introduction",
+    "text": "Introduction\n\nI will introduce key concepts その代わり、重要なコンセプトを紹介します\n\nWe will continue to learn about these throughout the course コース全体を通して、これらについて学び続けます\nYou should use these to learn more on your own 各自でより深く学ぶために、これらを活用してください"
+  },
+  {
+    "objectID": "day4/index.html#introduction-2",
+    "href": "day4/index.html#introduction-2",
+    "title": "Biodiversity and Japan",
+    "section": "Introduction",
+    "text": "Introduction\n\nAfter watching the lecture, please complete the online activity\n講義を視聴した後、オンライン・アクティビティに参加してください"
+  },
+  {
+    "objectID": "day4/index.html#activity-exploring-biodiversity-patterns-in-japan-1",
+    "href": "day4/index.html#activity-exploring-biodiversity-patterns-in-japan-1",
+    "title": "Biodiversity and Japan",
+    "section": "Activity: Exploring biodiversity patterns in Japan",
+    "text": "Activity: Exploring biodiversity patterns in Japan\n\nPlease fill out the Google Form for the activity by 2023-07-04\n7月4日までにGoogleフォームに記入してください。\nThe link to the form (https://forms.gle/1cyMzew9V5G2c4116) is available in Moodle and the course website\nフォームへのリンクはMoodleとコースウェブサイトにあります。"
   }
 ]

@@ -1,0 +1,287 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 4: Biodiversity of Japan
+
+Media day
+
+Week of 2023-06-27
+
+## Introduction
+
+- We can't cover everything there is to know about the biodiversity of Japan in one lecture, or one class.
+
+- 日本の生物多様性は非常に大きなトピックなので、一回の授業、あるいは一つの授業だけはとてもカバーが出来ません。
+
+## Introduction
+
+- I will introduce **key concepts** その代わり、重要なコンセプトを紹介します
+  - We will continue to learn about these throughout the course コース全体を通して、これらについて学び続けます
+  - You should use these to learn more on your own 各自でより深く学ぶために、これらを活用してください
+
+## Introduction
+
+- After watching the lecture, please complete the online activity
+
+- 講義を視聴した後、オンライン・アクティビティに参加してください
+
+## Recommended reading
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+"Japan: The Natural History of an Asian Archipelago", by Mark Brazil
+
+:::
+
+::: {.column width="50%"}
+![](https://d2574jtht5dtd0.cloudfront.net/B09KP3N8L3/685b2510/cover.jpeg){fig-alt="alt-text" height="550"}
+:::
+
+::::
+
+## Japan has exceptionally high biodiversity
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Example: Native species in **Japan** (378,000 sq km) vs. **British Isles** (315,000 sq km) 日本とイギリスの種数の比較（native = 在来種）
+:::
+
+::: {.column width="50%"}
+- Plants: 5,300 vs. 1,623
+- Fish: 3,850 vs. 315
+- Mammals: 107 vs. 42
+:::
+
+:::::
+
+::: {.medsmall}
+https://www.maff.go.jp/hokuriku/kokuei/shinacho/attach/pdf/koho-8.pdf
+:::
+
+## Japan has diverse climate
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+- Japan has a long shape from North to South 日本は南北に長い
+
+- Variation in climate: subarctic 亜寒帯to subtropical 亜熱帯
+
+- Variation in elevation
+
+- Highly diverse ecosystems
+
+:::
+
+::: {.column width="60%"}
+![](https://joelnitta.github.io/botany2020/images/japan_intro.png){fig-alt="alt-text" height="550"}
+:::
+
+::::
+
+## Japan has complicated geography
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Situated at boundaries of multiple tectonic plates 複数のプレートが一緒になるところに位置する
+
+- Extremely high geologic activity (earthquakes and mountain formation) 地震や火山が多い
+:::
+
+::: {.column width="50%"}
+![](https://www.researchgate.net/profile/W-Spakman/publication/353594344/figure/fig1/AS:1099217028292608@1639085170107/Tectonic-map-of-Japan-and-the-northeast-Eurasian-continent-MTL-Median-Tectonic-Line.png){fig-alt="alt-text" height="500"}
+:::
+
+::: {.medsmall}
+https://www.researchgate.net/profile/W-Spakman/publication/353594344
+:::
+
+::::
+
+## Japan has complicated geography
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Separated from mainland ca. 25 million years ago やく2,500万年前に大陸から離れた
+
+- Re-connected at three points　３カ所で再度に大陸と繋がった
+  - Hokkadio to Russia
+  - Honshu to Korea
+  - Okinawa to Taiwan
+:::
+
+::: {.column width="50%"}
+![](http://mksquare.sakura.ne.jp/magimg/coolum18/nihonkeisei.jpg){fig-alt="alt-text" height="550"}
+:::
+
+::::
+
+## Japan is affected by glaciers
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+- Glaciers **grow** and **shrink** due to changes in global temperature 氷河は地球の温度に伴い、大きくなったり縮んだりする
+
+:::
+
+::: {.column width="60%"}
+![](https://www.snexplores.org/wp-content/uploads/2020/02/1030_glacier-1028x579.png){fig-alt="alt-text"}
+:::
+
+::: {.medsmall}
+https://www.snexplores.org/article/scientists-say-glacier
+:::
+
+::::
+
+## Glaciers come and go in cycles
+
+- When glaciers are large (**glacial maximum** 氷期), sea levels are **low**
+
+- When glaciers are small (**inter-glacial periods** 間氷期), sea levels are **high**
+
+- Glacial maxima and inter-glacial periods repeat in a cycle　氷期と間氷期が繰り返される
+
+- It is currently an **inter-glacial period**　現在は間氷期
+
+## Glaciers come and go in cycles
+
+![](http://coastalchange.ucsd.edu/images/glacialsnewest2.jpg){fig-alt="Glacial cycles"}
+
+::: {.medsmall}
+isotope = 同位体
+
+http://coastalchange.ucsd.edu/st4_climatechange/sealevel.html
+:::
+
+
+## Global sea levels were lower during the last glacial maximum (LGM)
+
+![](https://www.iro.umontreal.ca/~vaucher/History/Evolution/images/Climate/IceAge_World.jpg){fig-alt="alt-text"}
+
+::: {.medsmall}
+LGM = 最終氷期極大期  
+https://www.iro.umontreal.ca/~vaucher/History/Evolution/images/Climate/IceAge_World.jpg
+
+:::
+
+## Connections to the continent shaped biodiversity in Japan
+
+- **Organisms moved into Japan** from the mainland when it was connected (glacial maxima) 氷期の間に日本は大陸と繋がっていたので、生物たちが日本へ渡ることができた
+
+- They became isolated and **evolved into new species** 日本で隔離されるようになって、新しい種へと進化した
+
+## Example: Stoneflies
+
+![](../images/stonefly.png)
+
+::: {.medsmall}
+カワゲラ  
+Tojo et al. 2017 10.1111/ens.12261
+:::
+
+## Deep-sea troughs shape biodiversity
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- The water is very deep in the **Tsugaru strait** between Hokkaido and Honshu, so those **did not become connected** during the LGM 津軽海峡がとても深いので、最終氷期極大期の間でも北海道と本州がつながることはなかった。
+
+:::
+
+::: {.column width="50%"}
+![](../images/tsugaru_lgm.png){fig-alt="alt-text"}
+:::
+
+::: {.medsmall}
+Modified from https://upload.wikimedia.org/wikipedia/commons/d/d9/Japan_glaciation.gif
+:::
+
+::::
+
+## Deep-sea troughs shape biodiversity
+
+- Animals that cannot easily cross over water **could not disperse from Hokkaido into Honshu** 水を簡単に渡れない動物は、北海道から本州に入ることが出来なかった。
+
+- There is a major difference in species between Hokkaido and Honshu today 現在、北海道と本州の間には大きな種の違いがある。
+
+- This border is known as **"Blakiston's line"** この境界線は "ブラキストン線 "と呼ばれている
+
+## Deep-sea troughs shape biodiversity
+
+![](https://assets.st-note.com/img/1680438151294-LijY83vv0B.png?width=800)
+
+::: {.medsmall}
+https://note.com/htmf/n/nd7c6e0006c2c
+:::
+
+## But the story is not that simple...
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Recently, ancient DNA of brown bears was found in Honshu, indicating that they may have crossed the Tsugaru strait during the LGM 最近、ヒグマの古代DNAが本州から発見され、最終氷期極大期にヒグマが津軽海峡を渡った可能性が示された
+
+::: {.medsmall}
+Segawa et al. 2021 <https://doi.org/10.1098/rsos.210518>
+:::
+
+:::
+
+::: {.column width="50%"}
+![](../images/segawa_bears.png)
+:::
+
+::::
+
+## Similar gaps in southern Japan
+
+琉球列島にも似たようなパターンがある
+
+![](../images/ryukyu_endemics.png){fig-alt="alt-text"}
+
+::: {.medsmall}
+https://www.nies.go.jp/kokusai/tpm/tpm8/download/part2/p2_s2_11.pdf
+:::
+
+## Summary of key concepts
+
+- Japan has **diverse climate**, which means many species adapted for different climates live in a small area 日本には多様な気候があり、異なる気候に適応した多くの種が狭い地域に生息している。
+
+- Japan has **complicated geological history**, which means many different species evolved over time 日本には複雑な地質学的歴史があり、そのために様々な種が進化することが出来た。
+
+- **Growth of glaciers affects sea level**, and thereby connections between islands 氷河の成長は海面に影響を与え、それによって島と島のつながりが変化する。
+
+## Activity: Exploring biodiversity patterns in Japan
+
+- In this activity, you will use an interactive map (<https://biodiversity-map.thinknature-japan.com/en/>) to explore patterns of biodiversity in native vascular plants of Japan
+
+- このアクティビティでは、インタラクティブ・マップ（https://biodiversity-map.thinknature-japan.com/en/）を使って、日本の維管束植物の生物多様性のパターンを探ります。
+
+## Activity: Exploring biodiversity patterns in Japan
+
+- Please **fill out the Google Form for the activity by 2023-07-04**  
+7月4日までにGoogleフォームに記入してください。
+
+- The link to the form (<https://forms.gle/1cyMzew9V5G2c4116>) is available in Moodle and the course website  
+フォームへのリンクはMoodleとコースウェブサイトにあります。
