@@ -9,6 +9,10 @@ toc: false
 
 - [Day 2: Global distribution of biodiversity](day2/index.qmd)
 
+- [Day 3: Levels of biodiversity](day3/index.qmd)
+
+- [Media Day: Biodiversity of Japan](day4/index.qmd)
+
 ## Videos
 
 ### Watch by Day 2, 2023-06-20
