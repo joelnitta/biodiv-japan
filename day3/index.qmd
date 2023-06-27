@@ -11,6 +11,16 @@ execute:
 
 2023-06-27
 
+## Name cards
+
+Please fill out a name card and place it in front of you
+
+## Quiz
+
+- Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
+
+![](../images/NITTA9359.png){fig-alt="QR code linking to Socrative room for NITTA9359" height="400"}
+
 ## Species concepts
 
 - There is no one right answer to the question, "What are species?" 「種とは何か？」に対する正解はない

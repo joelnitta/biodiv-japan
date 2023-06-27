@@ -13,7 +13,7 @@ toc: false
 
 - [Media Day: Biodiversity of Japan](day4/index.qmd)
 
-## Videos
+## Videos 
 
 ### Watch by Day 2, 2023-06-20
 
