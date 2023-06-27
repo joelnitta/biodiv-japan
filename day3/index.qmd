@@ -13,10 +13,9 @@ execute:
 
 ## Species concepts
 
-- There is no one right answer to the question, "What are species?"
+- There is no one right answer to the question, "What are species?" 「種とは何か？」に対する正解はない
 
-- Instead, there are different **species concepts**
-  - 種概念、「種」の定義
+- Instead, there are different **species concepts** その代わり、複数の種概念がある
 
 ## Biological Species Concept (BSC)<br>生物学的種概念
 
@@ -53,13 +52,15 @@ https://www.chegg.com/learn/topic/biological-species-concept
 
 ## Why the BSC?
 
-- Members of the same species **can exchange genes**
+- Members of the same species **can exchange genes** 同じ種同士で遺伝子の交換が可能
 
-- Members of different species cannot
+- Members of different species cannot 別種では不可能
 
-- Member of the same species are an **evolutionary unit**
+- Member of the same species are an **evolutionary unit** だから、同じ種に属しているメンバーは進化的な単位をなす
 
 ## Speciation
+
+種分化
 
 ![](https://evolution.berkeley.edu/wp-content/uploads/2021/09/beetles_speciation_2.png){fig-alt="UC Berkeley evolution course image showing speciation"}
 
@@ -69,27 +70,31 @@ https://evolution.berkeley.edu/
 
 ## Why measure biodiversity using species?
 
+生物多様性を種で測る理由は？
+
 . . .
 
-- Conceptually simple
+- Conceptually simple　わかりやすい
 
-- According to the BSC, we are preserving evolutionary units
+- According to the BSC, we are preserving evolutionary units　生物種概念によると、進化的な単位の保全ができている
 
 ## Are there any disadvantages to measuring biodiversity with species richness?
 
+生物多様性を種で測る欠点は？
+
 . . .
 
-- Does not account for evolutionary history
+- Does not account for evolutionary history 種の進化的な歴史を無視してしまう
 
-- The BSC is difficult to test experimentally
+- The BSC is difficult to test experimentally 生物学的種概念は実験による検証が難しい
 
-- The BSC does not apply to all organisms
+- The BSC does not apply to all organisms 生物学的種概念は全ての生物に応用ができない
 
 ## Biodiversity is not just about species
 
-- Diversity exists **within** species
+- Diversity exists **within** species 種の中にも生物多様性が存在する
 
-- Species have **evolutionary history**
+- Species have **evolutionary history** 種には進化的な歴史がある
 
 ## Alleles
 ![](https://cdn.kastatic.org/ka-perseus-images/89d45d800d01c4b3d58c98ffb068c4c532e80dc5.png){fig-alt="alleles in peas"}
@@ -124,9 +129,21 @@ Gene pool = the total genetic diversity within a population or species
 
 ![](../images/which-diverse-alleles.png)
 
-## Populations with low genetic diversity are vulnerable
+## Populations with low genetic diversity are vulnerable {.smaller}
 
+:::: {.columns}
+
+::: {.column width="50%"}
 - Genetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct
+
+- 遺伝的多様性は種レベルの多様性と関連している：もし十分な数の個体群が死滅すれば、種は絶滅するかもしれない。
+:::
+
+::: {.column width="50%"}
+![](../images/bison_low_pop.png){}
+:::
+
+::::
 
 ## Phylogenetic trees represent evolution
 
@@ -136,33 +153,83 @@ Gene pool = the total genetic diversity within a population or species
 
 ![](https://cdn.kastatic.org/ka-perseus-images/aa95c701ebf845d93fed8362da63cbcc8439fb31.png)
 
+## Connections matter, not order of tips
+
+You may read the tips left to right, but that does not mean the tip on the right is "more evolved". 系統樹を読む際は左から右へとラベルを読むかもしれないけど、右の種は「より進化した」わけではない。
+
+![](https://evolution.berkeley.edu/wp-content/uploads/2021/06/notspecializedtree.gif)
+
+::: {.medsmall}
+https://evolution.berkeley.edu/the-tree-room/evolutionary-trees-a-primer/tips-for-tree-reading/
+:::
+
+## Connections matter, not order of tips
+
+The same tree can be represented multiple ways. 一つの系統関係には複数の表し方がある。
+
+![](https://evolution.berkeley.edu/wp-content/uploads/2021/06/equivalenttrees.gif)
+
+::: {.medsmall}
+https://evolution.berkeley.edu/the-tree-room/evolutionary-trees-a-primer/tips-for-tree-reading/
+:::
+
 ## Phylogenetic trees tell us about biogeography of Japan
 
 ![](../images/primula.png)
 
 ## Group Activity: Build a phylogenetic tree
 
+Build a phylogenetic tree including: owl, carp, rhinoceros, frog, starfish
+
+![](../images/phylo_tree_activity.png)
+
+## Build a phylogenetic tree: Step 1
+
+List characteristics of each species 共通に持っている特徴を探す
+
+![](../images/phylo_tree_activity_traits.png)
+
+## Build a phylogenetic tree: Step 2
+
+Convert the list into a matrix リストをマトリックスに変換する
+
+![](../images/phylo_tree_activity_matrix.png)
+
+## Build a phylogenetic tree: Step 3
+
+Use the matrix to build a concentric circles diagram (Venn diagram) マトリックスを使って同心円図（ベン図）を作る
+
+![](../images/phylo_tree_activity_venn.png)
+
+## Build a phylogenetic tree: Step 4
+
+Connect species from the Venn diagram to build the tree ベン図から種をつなげて系統樹を作る
+
+![](../images/phylo_tree_activity_tree.png)
+
+## Build a phylogenetic tree: Step 5
+
+Indicate on the tree where the characteristics evolved その特徴がどこで進化したのかを系統樹に示す。
+
+![](../images/phylo_tree_activity_tree_traits.png)
+
 ## Activity: Which area is more diverse?
 
-<!-- 
-Area 1: three species of plants
-
-Area 2: one tree, one lizard, one insect
--->
+![](../images/which-diverse-phylo.png)
 
 ## About the midterm (7/4)
 
-- Topics covered
-  - Day 2, Global distribution of biodiversity
-  - Day 3, Levels of biodiversity
-  - Media day, Distribution of biodiversity in Japan
+- Topics covered 試験に出るトピック
+  - **Day 2**, Global distribution of biodiversity
+  - **Day 3**, Levels of biodiversity
+  - **Media day**, Distribution of biodiversity in Japan
 
 ## About the midterm (7/4)
 
 - 30 minutes long
 
-- Multiple choice and short answer
+- Multiple choice and short answer 多肢選択式と記述式
 
-- No computers or smartphones
+- No computers or smartphones ラップトップ、携帯など禁止
 
-- 1 page (A4, both sides) of hand-written notes allowed
+- 1 page (A4, both sides) of hand-written notes allowed A4一枚（両面）の手書きメモはオッケー

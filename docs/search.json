@@ -704,14 +704,14 @@
     "href": "day3/index.html",
     "title": "Day 3: Levels of biodiversity",
     "section": "",
-    "text": "2023-06-27\n\n\n\nDiversity exists within species\nSpecies have evolutionary history\n\n\n\n\n\nAllele = alternative versions of a gene\nGene pool = the total genetic diversity within a population or species\n\n\n\n\n\n\n\n\n\n\n\n\nGenetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct\n\n\n\n\n\nAll life descends from a single origin\nNew branches split off when new species evolve\n\n\n\n\n\nNode represents shared ancestor\nTip represent current organism (species)\nLine represents connection between ancestor and descendants\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhylogenetic Diversity (PD) = sum of branchlengths of all species living in an area"
+    "text": "2023-06-27\n\n\n\nThere is no one right answer to the question, “What are species?”\nInstead, there are different species concepts\n\n種概念、「種」の定義\n\n\n\n\n\n\nAccording to the BSC, species are groups of individuals that can interbreed with each other, but not other species\n\ninterbreed = 繁殖する\n\nAppearance does not matter\n\n見た目は関係ない\n\n\n\n\n\n\n\nhttps://evolution.berkeley.edu/biological-species-concept/\n\n\n\n\n\n\nhttps://evolution.berkeley.edu/biological-species-concept/\n\n\n\n\n\n\nHorse うま Donkey ロバ Mule ラバ\nhttps://www.chegg.com/learn/topic/biological-species-concept\n\n\n\n\n\nMembers of the same species can exchange genes 同じ種同士で遺伝子の交換が可能\nMembers of different species cannot 別種では不可能\nMember of the same species are an evolutionary unit だから、同じ種に属しているメンバーは進化的な単位をなす\n\n\n\n\n\n\nhttps://evolution.berkeley.edu/\n\n\n\n\n生物多様性を種で測る理由は？\n. . .\n\nConceptually simple　わかりやすい\nAccording to the BSC, we are preserving evolutionary units　生物種概念によると、進化的な単位の保全ができている\n\n\n\n\n生物多様性を種で測る欠点は？\n. . .\n\nDoes not account for evolutionary history 種の進化的な歴史を無視してしまう\nThe BSC is difficult to test experimentally 生物学的種概念は実験による検証が難しい\nThe BSC does not apply to all organisms 生物学的種概念は全ての生物に応用ができない\n\n\n\n\n\nDiversity exists within species 種の中にも生物多様性が存在する\nSpecies have evolutionary history 種には進化的な歴史がある\n\n\n\n\n\nAllele = alternative versions of a gene\nアリル = 対立遺伝子。一つの遺伝子に複数の種類があった場合、その一つ。\n\n\n\n\nPhenotype = 表現型\nGenotype = 遺伝子型\n\n\n\n\n\n\n\nGene pool = the total genetic diversity within a population or species\n遺伝子プール：種あるいは集団の中に存在する遺伝子の総体\n\n\n\n\n\n\n\n\n\n\nGenetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTopics covered\n\nDay 2, Global distribution of biodiversity\nDay 3, Levels of biodiversity\nMedia day, Distribution of biodiversity in Japan\n\n\n\n\n\n\n30 minutes long\nMultiple choice and short answer\nNo computers or smartphones\n1 page (A4, both sides) of hand-written notes allowed"
   },
   {
     "objectID": "day3/index.html#biodiversity-is-not-just-about-species",
     "href": "day3/index.html#biodiversity-is-not-just-about-species",
     "title": "Biodiversity and Japan",
     "section": "Biodiversity is not just about species",
-    "text": "Biodiversity is not just about species\n\nDiversity exists within species\nSpecies have evolutionary history"
+    "text": "Biodiversity is not just about species\n\nDiversity exists within species 種の中にも生物多様性が存在する\nSpecies have evolutionary history 種には進化的な歴史がある"
   },
   {
     "objectID": "day3/index.html#diversity-within-species",
@@ -725,7 +725,7 @@
     "href": "day3/index.html#populations-with-low-genetic-diversity-are-vulnerable",
     "title": "Biodiversity and Japan",
     "section": "Populations with low genetic diversity are vulnerable",
-    "text": "Populations with low genetic diversity are vulnerable\n\nGenetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct"
+    "text": "Populations with low genetic diversity are vulnerable\n\n\n\nGenetic diversity is linked to species-level diversity: if enough populations die, the species may go extinct\n遺伝的多様性は種レベルの多様性と関連している：もし十分な数の個体群が死滅すれば、種は絶滅するかもしれない。"
   },
   {
     "objectID": "day3/index.html#phylogenetic-trees-represent-evolution",
@@ -802,7 +802,7 @@
     "href": "day3/index.html#species-concepts",
     "title": "Biodiversity and Japan",
     "section": "Species concepts",
-    "text": "Species concepts\n\nThere is no one right answer to the question, “What are species?”\nInstead, there are different species concepts\n\n種概念、「種」の定義"
+    "text": "Species concepts\n\nThere is no one right answer to the question, “What are species?” 「種とは何か？」に対する正解はない\nInstead, there are different species concepts その代わり、複数の種概念がある"
   },
   {
     "objectID": "day3/index.html#biological-species-concept-bsc-生物学的種概念",
@@ -837,28 +837,28 @@
     "href": "day3/index.html#why-the-bsc",
     "title": "Biodiversity and Japan",
     "section": "Why the BSC?",
-    "text": "Why the BSC?\n\nMembers of the same species can exchange genes\nMembers of different species cannot\nMember of the same species are an evolutionary unit"
+    "text": "Why the BSC?\n\nMembers of the same species can exchange genes 同じ種同士で遺伝子の交換が可能\nMembers of different species cannot 別種では不可能\nMember of the same species are an evolutionary unit だから、同じ種に属しているメンバーは進化的な単位をなす"
   },
   {
     "objectID": "day3/index.html#speciation",
     "href": "day3/index.html#speciation",
     "title": "Biodiversity and Japan",
     "section": "Speciation",
-    "text": "Speciation\n\n\nhttps://evolution.berkeley.edu/"
+    "text": "Speciation\n種分化\n\n\nhttps://evolution.berkeley.edu/"
   },
   {
     "objectID": "day3/index.html#why-measure-biodiversity-using-species",
     "href": "day3/index.html#why-measure-biodiversity-using-species",
     "title": "Biodiversity and Japan",
     "section": "Why measure biodiversity using species?",
-    "text": "Why measure biodiversity using species?\n\n\nConceptually simple\nAccording to the BSC, we are preserving evolutionary units"
+    "text": "Why measure biodiversity using species?\n生物多様性を種で測る理由は？\n\n\nConceptually simple　わかりやすい\nAccording to the BSC, we are preserving evolutionary units　生物種概念によると、進化的な単位の保全ができている"
   },
   {
     "objectID": "day3/index.html#are-there-any-disadvantages-to-measuring-biodiversity-with-species-richness",
     "href": "day3/index.html#are-there-any-disadvantages-to-measuring-biodiversity-with-species-richness",
     "title": "Biodiversity and Japan",
     "section": "Are there any disadvantages to measuring biodiversity with species richness?",
-    "text": "Are there any disadvantages to measuring biodiversity with species richness?\n\n\nDoes not account for evolutionary history\nThe BSC is difficult to test experimentally\nThe BSC does not apply to all organisms"
+    "text": "Are there any disadvantages to measuring biodiversity with species richness?\n生物多様性を種で測る欠点は？\n\n\nDoes not account for evolutionary history 種の進化的な歴史を無視してしまう\nThe BSC is difficult to test experimentally 生物学的種概念は実験による検証が難しい\nThe BSC does not apply to all organisms 生物学的種概念は全ての生物に応用ができない"
   },
   {
     "objectID": "day3/index.html#alleles",
@@ -886,7 +886,7 @@
     "href": "day3/index.html#group-activity-build-a-phylogenetic-tree",
     "title": "Biodiversity and Japan",
     "section": "Group Activity: Build a phylogenetic tree",
-    "text": "Group Activity: Build a phylogenetic tree"
+    "text": "Group Activity: Build a phylogenetic tree\nBuild a phylogenetic tree including: owl, carp, rhinoceros, frog, starfish"
   },
   {
     "objectID": "day3/index.html#phylogenetic-trees-tell-us-about-biogeography-in-japan",
@@ -1145,13 +1145,62 @@
     "href": "day3/index.html#about-the-midterm-74",
     "title": "Biodiversity and Japan",
     "section": "About the midterm (7/4)",
-    "text": "About the midterm (7/4)\n\nTopics covered\n\nDay 2, Global distribution of biodiversity\nDay 3, Levels of biodiversity\nMedia day, Distribution of biodiversity in Japan"
+    "text": "About the midterm (7/4)\n\nTopics covered 試験に出るトピック\n\nDay 2, Global distribution of biodiversity\nDay 3, Levels of biodiversity\nMedia day, Distribution of biodiversity in Japan"
   },
   {
     "objectID": "day3/index.html#about-the-midterm-74-1",
     "href": "day3/index.html#about-the-midterm-74-1",
     "title": "Biodiversity and Japan",
     "section": "About the midterm (7/4)",
-    "text": "About the midterm (7/4)\n\n30 minutes long\nMultiple choice and short answer\nNo computers or smartphones\n1 page (A4, both sides) of hand-written notes allowed"
+    "text": "About the midterm (7/4)\n\n30 minutes long\nMultiple choice and short answer 多肢選択式と記述式\nNo computers or smartphones ラップトップ、携帯など禁止\n1 page (A4, both sides) of hand-written notes allowed A4一枚（両面）の手書きメモはオッケー"
+  },
+  {
+    "objectID": "day3/index.html#build-a-phylogenetic-tree-step-1",
+    "href": "day3/index.html#build-a-phylogenetic-tree-step-1",
+    "title": "Biodiversity and Japan",
+    "section": "Build a phylogenetic tree: Step 1",
+    "text": "Build a phylogenetic tree: Step 1\nList characteristics of each species 共通に持っている特徴を探す"
+  },
+  {
+    "objectID": "day3/index.html#build-a-phylogenetic-tree-step-2",
+    "href": "day3/index.html#build-a-phylogenetic-tree-step-2",
+    "title": "Biodiversity and Japan",
+    "section": "Build a phylogenetic tree: Step 2",
+    "text": "Build a phylogenetic tree: Step 2\nConvert the list into a matrix リストをマトリックスに変換する"
+  },
+  {
+    "objectID": "day3/index.html#build-a-phylogenetic-tree-step-3",
+    "href": "day3/index.html#build-a-phylogenetic-tree-step-3",
+    "title": "Biodiversity and Japan",
+    "section": "Build a phylogenetic tree: Step 3",
+    "text": "Build a phylogenetic tree: Step 3\nUse the matrix to build a concentric circles diagram (Venn diagram) マトリックスを使って同心円図（ベン図）を作る"
+  },
+  {
+    "objectID": "day3/index.html#build-a-phylogenetic-tree-step-4",
+    "href": "day3/index.html#build-a-phylogenetic-tree-step-4",
+    "title": "Biodiversity and Japan",
+    "section": "Build a phylogenetic tree: Step 4",
+    "text": "Build a phylogenetic tree: Step 4\nConnect species from the Venn diagram to build the tree ベン図から種をつなげて系統樹を作る"
+  },
+  {
+    "objectID": "day3/index.html#build-a-phylogenetic-tree-step-5",
+    "href": "day3/index.html#build-a-phylogenetic-tree-step-5",
+    "title": "Biodiversity and Japan",
+    "section": "Build a phylogenetic tree: Step 5",
+    "text": "Build a phylogenetic tree: Step 5\nIndicate on the tree where the characteristics evolved その特徴がどこで進化したのかを系統樹に示す。"
+  },
+  {
+    "objectID": "day3/index.html#connections-matter-not-order-of-tips",
+    "href": "day3/index.html#connections-matter-not-order-of-tips",
+    "title": "Biodiversity and Japan",
+    "section": "Connections matter, not order of tips",
+    "text": "Connections matter, not order of tips\nYou may read the tips left to right, but that does not mean the tip on the right is “more evolved”. 系統樹を読む際は左から右へとラベルを読むかもしれないけど、右の種は「より進化した」わけではない。\n\n\nhttps://evolution.berkeley.edu/the-tree-room/evolutionary-trees-a-primer/tips-for-tree-reading/"
+  },
+  {
+    "objectID": "day3/index.html#connections-matter-not-order-of-tips-1",
+    "href": "day3/index.html#connections-matter-not-order-of-tips-1",
+    "title": "Biodiversity and Japan",
+    "section": "Connections matter, not order of tips",
+    "text": "Connections matter, not order of tips\nThe same tree can be represented multiple ways. 一つの系統関係には複数の表し方がある。\n\n\nhttps://evolution.berkeley.edu/the-tree-room/evolutionary-trees-a-primer/tips-for-tree-reading/"
   }
 ]
