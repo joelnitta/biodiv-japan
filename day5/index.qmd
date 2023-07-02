@@ -1,0 +1,192 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 3: Ecosystems and ecosystem services
+
+2023-07-04
+
+## Midterm test
+
+30 minutes long
+
+5 minute break after test
+
+## What are ecosystems?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+- **Networks** of interacting organisms
+- 「生態系」とは、相互作用する生物のネットワーク
+:::
+
+::: {.column width="70%"}
+![](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/96519252/Hui_figure1_v001-01_1_2.jpg){fig-alt="Food web"}
+:::
+
+::::
+
+::: {.medsmall}
+https://www.nature.com/scitable/knowledge/library/food-web-concept-and-applications-84077181/
+:::
+
+## The composition of ecosystems differs across the globe {.smaller}
+
+![](../images/ecosystem_grasslands.png)
+
+生態系は場所によって構造が違う。
+
+From a conservation standpoint **we need to save each one**
+
+保全的な観点からすると、それぞれ保全すべき価値がある
+
+## Ecosystems are not static
+
+- Ecosystems change (succession) 生態系は変わることがある（遷移）
+
+## Primary succession: when an ecosystem develops from bare rock {.smaller}
+
+一次遷移：溶岩台地などの土壌もない裸地や新しい湖沼などから始まる遷移
+
+![](https://news.uchicago.edu/sites/default/files/styles/tablet_landscape/public/images/2021-12/primary-succession.jpg?itok=eEohg4gp){fig-alt="Picture of primary succession" height="450"}
+
+::: {.medsmall}
+https://news.uchicago.edu/explainer/what-is-ecological-succession https://www.shinrin-ringyou.com/shinrin_seitai/seni.php
+:::
+
+## Secondary succession: when an ecosystem develops after major disturbance {.smaller}
+
+二次遷移：大きな撹乱が起こった後の遷移
+
+![](https://news.uchicago.edu/sites/default/files/styles/tablet_landscape/public/images/2021-12/secondary-succession.jpg?itok=Xohj46r5){fig-alt="Picture of secondary succession" height="400"}
+
+::: {.medsmall}
+https://news.uchicago.edu/explainer/what-is-ecological-succession
+:::
+
+## Activity: Which is more diverse?
+
+![](../images/which-diverse-disturbance.png){fig-alt="Which is more diverse: forest with no disturbance or small amount of disturbance"}
+
+## Intermediate disturbance hypothesis {.smaller}
+
+Ecosystems reach highest diversity at intermediate levels of disturbance  
+中ぐらいの撹乱で種数が最も多くなる（仮定）
+
+![](https://stephenthomforde.com/wp-content/uploads/2022/02/species-diversity.jpg){fig-alt="Intermediate disturbance curve"}
+
+::: {.medsmall}
+https://stephenthomforde.com/intermediate-disturbance-hypothesis-idh/
+:::
+
+## Disturbance is natural
+
+- When humans suppress natural change, it lowers biodiversity
+
+- 撹乱は自然現象である
+
+- 人間が自然に起こる撹乱を抑えると、生物多様性が低下する
+
+## Japan has diverse ecosystems
+
+![](../images/brazil_ecosystems.png)
+
+::: {.medsmall}
+Brazil 2022, *Japan: The Natural History of an Asian Archipelago*
+:::
+
+## Japan has diverse ecosystems
+
+![](../images/brazil_biome_map.png)
+
+::: {.medsmall}
+Brazil 2022, *Japan: The Natural History of an Asian Archipelago*
+:::
+
+## Ecosystems are linked to ecosystem services
+
+Healthy ecosystems have benefits for people
+
+健康的な状態を保った生態系は人間にとって有利
+
+- Direct　直接的
+  - Example: food from plants
+- Indirect　間接的
+  - Example: mangroves prevent coastal erosion
+- Aesthetic/ethical　美的・倫理的
+  - Example: trees in parks relieve daily stress
+
+## Activity: Discuss ecosystem services 
+
+::: {.incremental}
+
+1. List as many ecosystem services as you can in your group (at least 10)
+
+2. Arrange them in the Venn diagram. Put a star next to ecosystem services that you experience yourself.
+
+3. Share your results with the class. What are services that show up in multiple categories?
+
+:::
+
+## Example to satoyama: Misato, Kumamoto
+
+{{< video https://www.youtube.com/embed/q1E3ff3NO_4 width="85%" height="85%" >}}
+
+::: {.medsmall}
+ 久保田康裕・生物多様性研究室シンクネイチャー 
+:::
+
+---
+
+![](../images/satoyama_labels.png){fig-alt="Satoyama with labels"}
+
+## Satoyama are complex ecosystems with human interactions
+
+里山は人間との相互作用による複雑な生態系
+
+Not one ecosystem, but many
+
+> "Traditional, rural landscapes, which are social and ecological networks of a village and its surroundings, which include agricultural lands, open forest lands and forests, and which have maintained a high diversity of plants, insects, and small-to-medium-sized animals"
+
+Fukamachi (2001, Landsc. Ecol. 16: 703–717)
+
+## Satoyama are widely distributed throughout Japan
+
+里山は日本全国に広く分布している
+
+![](../images/satoyama_index.png)
+
+::: {.medsmall}
+https://www.biodic.go.jp/biodiversity/
+:::
+
+## In satoyama, humans benefit from the ecosystem and help maintain biodiversity
+
+里山では、人間をが生物多様性を維持すると同時に恩恵を受ける
+
+- Cutting trees prevents any one species from becoming dominant 樹木を伐採することで、種のどれか一つだけが圧倒的に多くなることを防ぐ
+- Watering of rice paddies provides habitat for wetland species 水田への散水は湿地生物に生息地を提供する
+
+## Satoyama are being lost due to population shrinkage
+
+人口減少で失われつつある里山
+
+- The current population of Japan is shrinking 現在の日本の人口は減少している
+- Most young people are in the cities 若者の多くは都会にいる
+- There are fewer and fewer people to manage satoyama, so biodiversity is being lost 里山を管理する人が少なくなり、生物多様性が失われている
+
+## The Japanese government is trying to conserve satoyama
+
+日本政府は里山の保全に取り組んでいる
+
+![](../images/satoyama-strategy.png)
+
+::: {.medsmall}
+<https://www.env.go.jp/nature/satoyama/En_ActionPlan_summary_ver.pdf>
+:::
