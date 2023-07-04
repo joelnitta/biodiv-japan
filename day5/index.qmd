@@ -160,13 +160,22 @@ Fukamachi (2001, Landsc. Ecol. 16: 703–717)
 
 ## Satoyama are widely distributed throughout Japan
 
-里山は日本全国に広く分布している
+:::: {.columns}
 
-![](../images/satoyama_index.png)
+::: {.column width="40%"}
+里山は日本全国に広く分布している
 
 ::: {.medsmall}
 https://www.biodic.go.jp/biodiversity/
 :::
+
+:::
+
+::: {.column width="60%"}
+![](../images/satoyama_index.png)
+:::
+
+::::
 
 ## In satoyama, humans benefit from the ecosystem and help maintain biodiversity
 
