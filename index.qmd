@@ -13,6 +13,8 @@ toc: false
 
 - [Media Day: Biodiversity of Japan](day4/index.qmd)
 
+- [Day 5: Ecosystems & ecosystem services](day5/index.qmd)
+
 ## Videos 
 
 ### Watch by Day 2, 2023-06-20
