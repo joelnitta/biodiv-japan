@@ -15,7 +15,7 @@ execute:
 
 For your final project, you will give a presentation on a biodiversity hotspot.
 
-You may choose from hotspots in Japan (Ogasawara Islands or Ryukyu Islands), or at the global level (Tropical Andes, Cape Floristic Region, Polynesia-Micronesia)
+You may choose from hotspots in Japan (Ogasawara Islands, Ryukyu Islands, Minami Alps), or at the global level (Tropical Andes, Cape Floristic Region, Polynesia-Micronesia)
 
 ## Final Project
 
@@ -31,7 +31,8 @@ The presentation should include:
   - How much area has already been lost to human activity?
   - What are the major threats posed?
 - Conservation outlook
-  - What are the current conservation efforts?
+  - What are the current conservation efforts and protection status?
+  - What needs to be done to save biodiversity in the future?
 
 ## Final project
 
