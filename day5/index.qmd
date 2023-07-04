@@ -7,15 +7,17 @@ execute:
   echo: true
 ---
 
-# Day 3: Ecosystems and ecosystem services
+# Day 5: Ecosystems and ecosystem services
 
 2023-07-04
 
 ## Midterm test
 
-30 minutes long
+- 30 minutes long
 
-5 minute break after test
+- 5 minute break after test
+
+- You may answer in English or Japanese
 
 ## What are ecosystems?
 
@@ -109,7 +111,7 @@ Brazil 2022, *Japan: The Natural History of an Asian Archipelago*
 Brazil 2022, *Japan: The Natural History of an Asian Archipelago*
 :::
 
-## Ecosystems are linked to ecosystem services
+## Ecosystems are linked to ecosystem services （生態系サービス）
 
 Healthy ecosystems have benefits for people
 

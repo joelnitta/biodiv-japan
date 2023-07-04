@@ -1229,7 +1229,7 @@
     "href": "day5/index.html#midterm-test",
     "title": "Biodiversity and Japan",
     "section": "Midterm test",
-    "text": "Midterm test\n30 minutes long\n5 minute break after test"
+    "text": "Midterm test\n\n30 minutes long\n5 minute break after test\nYou may answer in English or Japanese"
   },
   {
     "objectID": "day5/index.html#what-are-ecosystems",
@@ -1271,7 +1271,7 @@
     "href": "day5/index.html#ecosystems-are-linked-to-ecosystem-services",
     "title": "Biodiversity and Japan",
     "section": "Ecosystems are linked to ecosystem services",
-    "text": "Ecosystems are linked to ecosystem services\nHealthy ecosystems have benefits for people\n健康的な状態を保った生態系は人間にとって有利\n\nDirect　直接的\n\nExample: food from plants\n\nIndirect　間接的\n\nExample: mangroves prevent coastal erosion\n\nAesthetic/ethical　美的・倫理的\n\nExample: trees in parks relieve daily stress"
+    "text": "Ecosystems are linked to ecosystem services\nHealthy ecosystems have benefits for people\n健康的な状態を保った生態系は人間にとって有利（生態系サービス）\n\nDirect　直接的\n\nExample: food from plants\n\nIndirect　間接的\n\nExample: mangroves prevent coastal erosion\n\nAesthetic/ethical　美的・倫理的\n\nExample: trees in parks relieve daily stress"
   },
   {
     "objectID": "day5/index.html#activity-discuss-ecosystem-services",
@@ -1306,7 +1306,7 @@
     "href": "day5/index.html#in-satoyama-humans-benefit-from-the-ecosystem-and-help-maintain-biodiversity",
     "title": "Biodiversity and Japan",
     "section": "In satoyama, humans benefit from the ecosystem and help maintain biodiversity",
-    "text": "In satoyama, humans benefit from the ecosystem and help maintain biodiversity\n里山では、人間を生物多様性を維持すると同時に恩恵を受ける\n\nCutting trees prevents any one species from becoming dominant 樹木を伐採することで、種のどれか一つだけが圧倒的に多くなることを防ぐ\nWatering of rice paddies provides habitat for wetland species 水田への散水は湿地生物に生息地を提供する"
+    "text": "In satoyama, humans benefit from the ecosystem and help maintain biodiversity\n里山では、人間をが生物多様性を維持すると同時に恩恵を受ける\n\nCutting trees prevents any one species from becoming dominant 樹木を伐採することで、種のどれか一つだけが圧倒的に多くなることを防ぐ\nWatering of rice paddies provides habitat for wetland species 水田への散水は湿地生物に生息地を提供する"
   },
   {
     "objectID": "day5/index.html#satoyama-are-being-lost-due-to-population-shrinkage",
@@ -1384,5 +1384,12 @@
     "title": "Biodiversity and Japan",
     "section": "The Japanese government is trying to conserve satoyama",
     "text": "The Japanese government is trying to conserve satoyama\n日本政府は里山の保全に取り組んでいる\n\n\nhttps://www.env.go.jp/nature/satoyama/En_ActionPlan_summary_ver.pdf"
+  },
+  {
+    "objectID": "day5/index.html#ecosystems-are-linked-to-ecosystem-services-生態系サービス",
+    "href": "day5/index.html#ecosystems-are-linked-to-ecosystem-services-生態系サービス",
+    "title": "Biodiversity and Japan",
+    "section": "Ecosystems are linked to ecosystem services （生態系サービス）",
+    "text": "Ecosystems are linked to ecosystem services （生態系サービス）\nHealthy ecosystems have benefits for people\n健康的な状態を保った生態系は人間にとって有利\n\nDirect　直接的\n\nExample: food from plants\n\nIndirect　間接的\n\nExample: mangroves prevent coastal erosion\n\nAesthetic/ethical　美的・倫理的\n\nExample: trees in parks relieve daily stress"
   }
 ]
