@@ -1,0 +1,47 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 6: Documenting biodiversity, Threats to biodiversity
+
+2023-07-11
+
+## Final Project
+
+For your final project, you will give a presentation on a biodiversity hotspot.
+
+You may choose from hotspots in Japan (Ogasawara Islands or Ryukyu Islands), or at the global level (Tropical Andes, Cape Floristic Region, Polynesia-Micronesia)
+
+## Final Project
+
+The presentation should include:
+
+- Location of the hotspot
+- Description of biodiversity
+  - What groups of organisms are particularly diverse?
+  - Are there any particularly interesting species?
+  - How is biodiversity distributed within the area?
+  - What evolutionary and geologic processes cause the high biodiversity?
+- Description of threats
+  - How much area has already been lost to human activity?
+  - What are the major threats posed?
+- Conservation outlook
+  - What are the current conservation efforts?
+
+## Final project
+
+Time: 15-20 minutes per presentation
+
+Roles:
+  - Slide design
+  - Research
+  - Fact check
+  - Presentation
+
+Evaluation: You will evaluate each other group's presentation, as well as the other members of your group. The evaluations will be used when grading.
+
