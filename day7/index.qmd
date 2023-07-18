@@ -1,0 +1,229 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 7: Protecting biodiversity
+
+2023-07-18
+
+## Quiz
+
+- Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
+
+![](../images/NITTA9359.png){fig-alt="QR code linking to Socrative room for NITTA9359" height="400"}
+
+## Who is responsible for conservation policy in Japan?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+National level 国レベル
+
+- Ministry of the Environment 環境省
+  - National Parks 国立公園
+
+- Forestry Agency 林野省
+  - Protected Forests 保護林
+:::
+
+::: {.column width="50%"}
+![](https://www.env.go.jp/content/000000017.svg){fig-alt="Logo of MOE" height="250"}
+
+![](https://www.rinya.maff.go.jp/j/shared_new/shared/images/logo_ci.gif){fig-alt="Logo of Forestry Agency" height="50"}
+:::
+
+::::
+
+## Who is responsible for conservation policy in Japan?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Prefectural and local governments 県（と県以下）の政府
+  - Prefectural parks and quasi-national parks 都道府県立自然公園と国定公園
+
+:::{.small}
+https://www.pref.chiba.lg.jp/shizen/kouen/shizenkouen/index.html
+:::
+:::
+
+::: {.column width="50%"}
+![Suigo-Tsukuba Quasi-National Park, Chiba 水郷筑波国定公園](https://www.pref.chiba.lg.jp/shizen/kouen/shizenkouen/images/photo2_1_1.jpg){}
+:::
+
+::::
+
+## Who is responsible for conservation policy in Japan?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- International 国際
+  - World Heritage Sites 世界遺産
+  - Ramsar Sites (wetlands) ラムサール条約湿地
+:::
+
+::: {.column width="50%"}
+![https://www.jelf-justice.org/statement/statement-1991/](https://www.jelf-justice.org/jelf/wp-content/uploads/2021/07/unesco-world-heritage-convention-logo-vector.png)
+:::
+
+::::
+
+## Overlap of protected areas
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Multiple layers of protection 保護地域は重複可能
+- But can be confusing 混乱しやすい
+:::
+
+::: {.column width="50%"}
+![](../images/ogasawara-protected.png){height="500"}
+:::
+
+::::
+
+## What is the Red List?
+
+レッドリストとは？
+
+- The Red List is a **list of endangered species** 絶滅危惧種のリスト
+
+- The original Red List was created by the **International Union for the Conservation of Nature (IUCN)** at the global level 原型は、国際自然保護連合（IUCN）が世界レベルで作成したもの
+
+- The Red list has no legal status, but is used as a source of information for shaping policy 法的地位はないが、政策形成のための情報源として利用されている
+
+---
+
+![](../images/redlist.png){fig-alt="Statistics about IUCN Red List" height="550"}
+
+<https://www.iucnredlist.org/>
+
+## Red List of Japan
+
+- The Ministry of the Environment compiles two documents for species in Japan 環境省は日本の種について以下の2つの文書を作成している
+  - **Japan Red List**: like the IUCN Red List, but specific to Japan ジャパン・レッドリスト：国際自然保護連合（IUCN）のレッドリストに似ているが、日本の種だけを扱う
+  - **Japan Red Data Book**: additional data about each species in the list 日本版レッドデータブック：リストに掲載されている種に関する追加データ
+
+---
+
+![](https://www.pref.kyoto.jp/kankyo/rdb/kids/img/rdb-j1.jpg){fig-alt="Image of Red Data Book" height="550"}
+
+::: {.medsmall}
+https://www.pref.kyoto.jp/kankyo/rdb/kids/img/rdb-j1.jpg
+:::
+
+## Restoration of species in Japan {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Example: Crested Ibis (*Nipponia nippon*) トキ
+  - Became extinct from Japan in 2003 2003年に日本から絶滅
+  - Reintroduced from China in 2008 <br> 2008年に中国から再導入
+  - Now nearly 500 birds on Sado Island <br> 現在、佐渡島に500羽近く生息
+:::
+
+::: {.column width="50%"}
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Nipponia_nippon.jpg){fig-alt="Image of a Crested Ibis" height="500"}
+:::
+
+::::
+
+::: {.medsmall}
+https://upload.wikimedia.org/wikipedia/commons/c/c3/Nipponia_nippon.jpg
+:::
+
+## How you can contribute to conservation
+
+:::: {.columns}
+
+::: {.column width="50%"}
+日本の自然保護に貢献するには
+
+- Experience biodiversity! <br> 生物多様性を体験する
+:::
+
+::: {.column width="50%"}
+![](../images/joel_looks_for_ferns.jpeg){height="500"}
+:::
+
+::::
+
+
+## How you can contribute to conservation
+
+- Experience biodiversity! 生物多様性を体験する
+  - Explore nearby natural areas 近くの自然を探検する
+  - Join a nature appreciation group 自然観察会に参加する
+  - Explore world heritage sites in Japan 日本の世界遺産を巡る
+
+## How you can contribute to conservation
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Use "My" things instead of buying new every time　毎回新しいものを買うのではなく、「マイ<何とか>」を使いましょう
+
+::: {.medsmall}
+https://tsunagood.net/
+:::
+:::
+
+::: {.column width="50%"}
+![](https://tsunagood.net/wp-content/uploads/2022/02/edaca1038c3803716698448087c8fdd1.jpg){height="450"}
+:::
+
+::::
+
+## How you can contribute to conservation
+
+- But beware of "eco-bags" - better to just buy fewer things in the first place! しかし、「エコバッグ」には気をつけよう。そもそも買うものを減らしたほうがいい！
+
+> a cotton bag should be used at least **7,100 times** to make it a truly environmentally friendly alternative to a conventional plastic bag
+
+::: {.medsmall}
+<https://edition.cnn.com/2023/03/13/world/reusable-grocery-bags-cotton-plastic-scn/index.html>
+:::
+
+## How you can contribute to conservation
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Talk with your friends about biodiversity 周りの方と生物多様性について話しましょう
+
+::: {.medsmall}
+https://daily.jstor.org/how-to-increase-diversity-in-community-science-projects/
+:::
+
+:::
+
+::: {.column width="50%"}
+![](https://daily.jstor.org/wp-content/uploads/2021/05/how_to_increase_diversity_in_community_science_projects_1050x700.jpg)
+:::
+
+::::
+
+## How you can contribute to conservation {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Educate yourself 自分自身を教育する
+  - Read the news about climate change 気候変動に関するニュースを読む
+  - Use what you learned in this class as a foundation to understand your connection with nature このクラスで学んだことを基礎として、自然とのつながりを理解する
+:::
+
+::: {.column width="50%"}
+![](../images/heat_record.png){fig-alt="News story about heat record in July 2023" height="450"}
+:::
+
+::::

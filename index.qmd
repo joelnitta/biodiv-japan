@@ -17,6 +17,8 @@ toc: false
 
 - [Day 6: Documenting biodiversity & threats to biodiversity](day6/index.qmd)
 
+- [Day 7: Protecting biodiversity](day7/index.qmd)
+
 ## Videos 
 
 ### Watch by Day 2, 2023-06-20
