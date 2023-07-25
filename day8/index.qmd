@@ -1,0 +1,40 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 8: Final Presentations
+
+2023-07-25
+
+## About references 引用について
+
+- As mentioned before, you are expected to **cite sources** in your slides when you use a **direct quote**, **fact**, or **image**
+- 前にも説明したように、スライドで**直接的な引用**、**事実**、**画像**を使用する場合は、**出典を引用する必要**がある。
+
+## About references 引用について
+
+- I expect you to **read** and **think about** the sources you use, and **write in your own words** (no plagiarism)
+- 使う出典を実際に**読んで**、そこに書いてあることについてを自ら**考えて**、文章を書く時は**自分の言葉で書く**こととなっている（剽窃は厳禁）
+
+## About references 引用について
+
+- Points will be deducted for copying directly from ChatGPT or Wikipedia without any references or using your own words
+- ChatGPTやWikipediaから引用なしで自分の言葉を使わずにコピペした場合は原点される
+
+## About grading 成績について
+
+- The final project is worth 30 points total 最終プロジェクトは合計３０点満点
+  - Presentation content (group work): 25 points 発表の内容（グループワーク）：２５点
+  - Participation (individual contribution): 5 points 参加（個人の貢献）：５点
+
+- You can get 1 extra credit point for asking a question during the presentation Q&A (only once) 発表の質疑応答の時に質問をしたら、１点加算される（一回だけ）
+
+## About evaluation sheets 評価シートについて
+
+- Fill out Form A on paper during class, return at end of class 授業中に様式Aを記入し、授業終了時に返してください。
+- Fill out Form B on Moodle after class, submit by 11:59 PM today (July 25) 授業後に様式BをMoodle上で記入し、本日（７月２５日）の23:59時までに提出してください。

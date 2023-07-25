@@ -19,6 +19,8 @@ toc: false
 
 - [Day 7: Protecting biodiversity](day7/index.qmd)
 
+- [Day 8: Final presentation](day8/index.qmd)
+
 ## Videos 
 
 ### Watch by Day 2, 2023-06-20
