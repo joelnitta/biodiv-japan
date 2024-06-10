@@ -11,8 +11,6 @@ execute:
 
 Media day
 
-Week of 2023-06-27
-
 ## Introduction
 
 - We can't cover everything there is to know about the biodiversity of Japan in one lecture, or one class.
@@ -280,7 +278,7 @@ https://www.nies.go.jp/kokusai/tpm/tpm8/download/part2/p2_s2_11.pdf
 
 ## Activity: Exploring biodiversity patterns in Japan
 
-- Please **fill out the Google Form for the activity by 2023-07-04**  
+- Please **fill out the Google Form for the activity by 2024-07-02**  
 7月4日までにGoogleフォームに記入してください。
 
 - The link to the form (<https://forms.gle/1cyMzew9V5G2c4116>) is available in Moodle and the course website  

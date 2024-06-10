@@ -9,7 +9,7 @@ execute:
 
 # Day 2: Global distribution of biodiversity
 
-2023-06-20
+2024-06-18
 
 ## Quiz
 

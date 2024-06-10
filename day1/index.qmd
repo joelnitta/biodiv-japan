@@ -9,7 +9,7 @@ execute:
 
 # Day 1: Introduction to "Biodiversity and Japan"
 
-2023-06-13
+2024-06-11
 
 ## Instructor: Joel Nitta
 
@@ -259,13 +259,13 @@ By the end of the course, you will be able to:
 
 ## Schedule
 
-- Day 1, 2023-06-13
+- Day 1, 2024-06-11
   - Introduction: Why does biodiversity matter? (no quiz)
 
-- Day 2, 2023-06-27
+- Day 2, 2024-06-25
   - Global distribution of biodiversity
 
-- Day 3, 2023-06-20
+- Day 3, 2024-06-18
   - Levels of biodiversity
 
 - Day 4, Media Day (on-demand, no quiz)
@@ -273,16 +273,16 @@ By the end of the course, you will be able to:
 
 ## Schedule (cont'd)
 
-- Day 5, 2023-07-4
+- Day 5, 2024-07-02
   - Midterm test, Ecosystems & ecosystem services (no quiz)
 
-- Day 6, 2023-07-11
+- Day 6, 2024-07-09
   - Threats to biodiversity
 
-- Day 7, 2023-07-18
+- Day 7, 2024-07-16
   - Protecting biodiversity
 
-- Day 8, 2023-07-25
+- Day 8, 2024-07-18
   - Final presentation (no quiz)
 
 ## Grades

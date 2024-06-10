@@ -23,7 +23,7 @@ toc: false
 
 ## Videos 
 
-### Watch by Day 2, 2023-06-20
+### Watch by Day 2, 2024-06-18
 
 Global distribution of biodiversity
 
@@ -31,7 +31,7 @@ Global distribution of biodiversity
 - [What is a Biodiversity Hotspot?](https://www.calacademy.org/explore-science/what-is-a-biodiversity-hotspot)
 - [Why Biodiversity is Distributed Unevenly](https://www.calacademy.org/explore-science/why-biodiversity-is-distributed-unevenly)
 
-### Watch by Day 3, 2023-06-27
+### Watch by Day 3, 2024-06-25
 
 Levels of biodiversity
 
@@ -41,18 +41,18 @@ Levels of biodiversity
 
 ### Watch on your schedule 
 
-(Media day, between 2023-06-27 and 2023-07-04)
+(Media day, between 2024-06-25 and 2024-07-02)
 
 Distribution of biodiversity in Japan
 
-### Watch by Day 5, 2023-07-04
+### Watch by Day 5, 2024-07-02
 
 Ecosystems & ecosystem services
 
 - [Ecosystem Services](https://www.calacademy.org/explore-science/ecosystem-services)
 - [Ecosystem Biodiversity](https://www.calacademy.org/explore-science/ecosystem-biodiversity)
 
-### Watch by Day 6, 2023-07-11
+### Watch by Day 6, 2024-07-09
 
 Documenting biodiversity, Threats to biodiversity
 
@@ -61,7 +61,7 @@ Documenting biodiversity, Threats to biodiversity
 - [Introduced Species and Biodiversity](https://www.calacademy.org/explore-science/introduced-species-and-biodiversity)
 - [How Does Climate Change Affect Biodiversity?](https://www.calacademy.org/educators/how-does-climate-change-affect-biodiversity)
 
-### Watch by Day 7, 2023-07-18
+### Watch by Day 7, 2024-07-16
 
 Protecting biodiversity
 
@@ -72,11 +72,11 @@ Protecting biodiversity
 
 ## Important Dates
 
-- Day 2, 2023-06-20: Quiz
-- Day 3, 2023-06-27: Quiz
-- Day 5, 2023-07-04: Midterm test
-- Day 6, 2023-07-11: Quiz
-- Day 7, 2023-07-18: Quiz
+- Day 2, 2024-06-18: Quiz
+- Day 3, 2024-06-25: Quiz
+- Day 5, 2024-07-02: Midterm test
+- Day 6, 2024-07-09: Quiz
+- Day 7, 2024-07-16: Quiz
 - 2024-07-17 11:59 PM: Slides and script for final presentation due
 - Day 8, 2024-07-18 17:50: Final presentation
   - **NOTE** different time and day than usual (補講日)
