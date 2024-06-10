@@ -8,9 +8,9 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.361">
+  <meta name="generator" content="quarto-1.4.549">
 
-  <title>Biodiversity and Japan – index</title>
+  <title>Biodiversity and Japan</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -156,7 +156,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -329,7 +330,6 @@
 <section id="day-4-biodiversity-of-japan" class="title-slide slide level1 center">
 <h1>Day 4: Biodiversity of Japan</h1>
 <p>Media day</p>
-<p>Week of 2023-06-27</p>
 </section>
 <section id="introduction" class="slide level2">
 <h2>Introduction</h2>
@@ -554,14 +554,16 @@ Tojo et al.&nbsp;2017 10.1111/ens.12261</p>
 <section id="activity-exploring-biodiversity-patterns-in-japan-1" class="slide level2">
 <h2>Activity: Exploring biodiversity patterns in Japan</h2>
 <ul>
-<li><p>Please <strong>fill out the Google Form for the activity by 2023-07-04</strong><br>
+<li><p>Please <strong>fill out the Google Form for the activity by 2024-07-02</strong><br>
 7月4日までにGoogleフォームに記入してください。</p></li>
 <li><p>The link to the form (<a href="https://forms.gle/1cyMzew9V5G2c4116" class="uri">https://forms.gle/1cyMzew9V5G2c4116</a>) is available in Moodle and the course website<br>
 フォームへのリンクはMoodleとコースウェブサイトにあります。</p></li>
 </ul>
 
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
 </div>
 </section></section>
     </div>
@@ -590,7 +592,6 @@ Tojo et al.&nbsp;2017 10.1111/ens.12261</p>
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -851,10 +852,9 @@ Tojo et al.&nbsp;2017 10.1111/ens.12261</p>
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -864,8 +864,17 @@ Tojo et al.&nbsp;2017 10.1111/ens.12261</p>
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 

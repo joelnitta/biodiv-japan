@@ -19,7 +19,7 @@ execute:
 - Research topic 1: Ecology and evolution of **ferns**
 
 - Research topic 2: Development of software for **data science**
-  - Upcoming course [Reproducible data analysis](https://syllabus.gs.chiba-u.jp/2023/101101101076000/Z011531301/en_US), 4th term
+  - [Reproducible data analysis](https://syllabus.gs.chiba-u.jp/2024/101101101076000/Z011531301/en_US), Thursdays 3rd period
 
 - <https://www.joelnitta.com>
 :::
@@ -161,12 +161,24 @@ https://upload.wikimedia.org/
 
 We will learn about the **specific risks** posed to biodiversity, and **actionable measures** to counteract them.
 
+::: {.columns}
+::: {.column}
 ::: {.incremental}
 
 - Climate change
 - Population growth
 - Invasive species
 
+:::
+:::
+::: {.column}
+![](https://s3.eu-west-2.amazonaws.com/iema.net/transform/_1440x1040_crop_center-center_80_none/90278/web_climatechange_shutterstock_396593335.webp)
+
+::: {.small}
+https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversity-than-land-use-by-2070/
+:::
+
+:::
 :::
 
 ## Biodiversity in Japan
@@ -253,19 +265,24 @@ By the end of the course, you will be able to:
 
 ## Sample quiz
 
-- Visit <https://gosocrative.com> and enter room name NITTA9359, **or** scan the barcode:
-
-![](../images/NITTA9359.png){fig-alt="QR code linking to Socrative room for NITTA9359" height="400"}
+::: {.columns}
+::: {.column width="40%"}
+- Enter room name `JABIOD2024` at <https://gosocrative.com> **or** scan the barcode
+:::
+::: {.column width="60%"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024"}
+:::
+:::
 
 ## Schedule
 
 - Day 1, 2024-06-11
   - Introduction: Why does biodiversity matter? (no quiz)
 
-- Day 2, 2024-06-25
+- Day 2, 2024-06-18
   - Global distribution of biodiversity
 
-- Day 3, 2024-06-18
+- Day 3, 2024-06-25
   - Levels of biodiversity
 
 - Day 4, Media Day (on-demand, no quiz)
@@ -282,16 +299,15 @@ By the end of the course, you will be able to:
 - Day 7, 2024-07-16
   - Protecting biodiversity
 
-- Day 8, 2024-07-18
-  - Final presentation (no quiz)
+- Day 8, 2024-07-18 17:50: Final presentation
+  - **NOTE** this is an **online** class at a different time and day than usual (補講日)
 
 ## Grades
 
 - Quizzes 20%
   - The single lowest scoring quiz won't be counted
 - Midterm 30%
-- Participation 20%
-- Final presentation 30%
+- Final presentation 50%
 
 **No late submissions allowed**
 
@@ -299,15 +315,9 @@ By the end of the course, you will be able to:
 
 - All slides (and other info) available at<br><https://joelnitta.github.io/biodiv-japan/>
 
-## Moodle
-
-- **Assignments** (videos) will be posted on Moodle
-
-- **Check Moodle every week**
-
 ## Office hours
 
-Friday 1-4 PM G1-313
+By appointment. Please send me an email to request:
 
 <joelnitta@chiba.u-jp>
 

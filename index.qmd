@@ -79,7 +79,7 @@ Protecting biodiversity
 - Day 7, 2024-07-16: Quiz
 - 2024-07-17 11:59 PM: Slides and script for final presentation due
 - Day 8, 2024-07-18 17:50: Final presentation
-  - **NOTE** different time and day than usual (補講日)
+  - **NOTE** this is an **online** class at a different time and day than usual
 
 ## Office Hours
 
@@ -89,6 +89,4 @@ By appointment, please send an email to <joelnitta@chiba-u.jp>
 
 ## Syllabus
 
-- [English](https://syllabus.gs.chiba-u.jp/2023/401001000000000/G15N945001/en_US)
-
-- [日本語](https://syllabus.gs.chiba-u.jp/2023/401001000000000/G15N945001/ja_JP)
+- [English](https://syllabus.gs.chiba-u.jp/2024/401001000000000/G15N945001/en_US)
