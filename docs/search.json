@@ -298,7 +298,7 @@
     "href": "day2/index.html#counting-life",
     "title": "Biodiversity and Japan",
     "section": "Counting life",
-    "text": "Counting life\n\nPopulation size (abundance): The number of individuals belonging to a species 個体数\nBiomass: The total mass of organisms 生物量\nRichness: The number of species 種数"
+    "text": "Counting life\n\nRichness: The number of species 種数\nPopulation size (abundance): The number of individuals belonging to a species 個体数\nBiomass: The total mass of organisms 生物量"
   },
   {
     "objectID": "day2/index.html#activity-which-is-more-diverse",
@@ -1363,5 +1363,19 @@
     "title": "Biodiversity and Japan",
     "section": "Recommended sources",
     "text": "Recommended sources\n\nJapan\n\n日本の多様性ホットスポットの構造に関する研究 (Biological Properties of Biodiversity Hotspots in Japan)\n生物多様性国家戦略 2023-2030 (National Biodiversity Strategy of Japan, 2023-2030)\n\nGlobal\n\nCritical Ecosystem Partnership Fund, “Explore the Biodiversity Hotspots”\n\nEspecially the “Ecosystem Profile” of each hotspot"
+  },
+  {
+    "objectID": "day2/index.html#species-richness",
+    "href": "day2/index.html#species-richness",
+    "title": "Biodiversity and Japan",
+    "section": "Species richness",
+    "text": "Species richness\n\nThe number of species 種数"
+  },
+  {
+    "objectID": "day2/index.html#biomass",
+    "href": "day2/index.html#biomass",
+    "title": "Biodiversity and Japan",
+    "section": "Biomass",
+    "text": "Biomass\n\nThe total mass of organisms 生物量"
   }
 ]

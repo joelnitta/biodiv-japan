@@ -30,31 +30,31 @@ To understand biodiversity, we need to **document** it (describe where it occurs
 
 ## How can we count (quantify) life?
 
+## Species richness
+
+![](../images/richness.png)
+
+The **number of species** 種数
+
 ## Population size (abundance)
 
 ![](../images/abundance.png)
 
 The **number of individuals** belonging to a species 個体数
 
----
+## Biomass
 
 ![](../images/biomass.png)
 
 The **total mass** of organisms 生物量
 
----
-
-![](../images/richness.png)
-
-The **number of species** 種数
-
 ## Counting life
+
+- Richness: The number of species 種数
 
 - Population size (abundance): The number of individuals belonging to a species 個体数
 
 - Biomass: The total mass of organisms 生物量
-
-- Richness: The number of species 種数
 
 ## Activity: Which is more diverse?
 
