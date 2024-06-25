@@ -13,17 +13,11 @@ execute:
 
 ## Announcements
 
-- Name cards: Please fill out a name card and place it in front of you.
+- The Media Day (Day 4) video and **required** activity are posted on Moodle. Complete the video and activity by 7/2.
 
-- The Media Day (Day 4) video and **required** activity are posted on Moodle. Complete the video and activity by 7/4.
-
-- The "Field methods for documenting biodiversity" video is now on Day 6.
-
-- Midterm is **next week**. I will explain more at the end of today's lecture.
+- Midterm is **next week** (7/2). I will explain more at the end of today's lecture.
 
 ## Quiz
-
-- Visit <https://gosocrative.com> and enter room name JABIOD2024, **or** scan the barcode:
 
 ![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024" height="400"}
 
@@ -233,14 +227,14 @@ Indicate on the tree where the characteristics evolved その特徴がどこで�
 
 ![](../images/which-diverse-phylo.png)
 
-## About the midterm (7/4)
+## About the midterm (7/2)
 
 - Topics covered 試験に出るトピック
   - **Day 2**, Global distribution of biodiversity
   - **Day 3**, Levels of biodiversity
   - **Media day**, Distribution of biodiversity in Japan
 
-## About the midterm (7/4)
+## About the midterm (7/2)
 
 - 30 minutes long
 
