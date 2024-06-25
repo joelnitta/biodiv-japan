@@ -13,7 +13,7 @@ execute:
 
 ## Announcements
 
-- The Media Day (Day 4) video and **required** activity are posted on Moodle. Complete the video and activity by 7/2.
+- The Media Day (Day 4) video and **required** activity are posted on Moodle. Complete the video and activity by 7/1 23:59.
 
 - Midterm is **next week** (7/2). I will explain more at the end of today's lecture.
 
@@ -243,3 +243,17 @@ Indicate on the tree where the characteristics evolved その特徴がどこで�
 - No computers or smartphones ラップトップ、携帯など禁止
 
 - 1 page (A4, both sides) of hand-written notes allowed A4一枚（両面）の手書きメモはオッケー
+
+## About the on-demand lecture activity
+
+- In this activity, you will use an interactive map (<https://biodiversity-map.thinknature-japan.com/en/>) to explore patterns of biodiversity in native vascular plants of Japan
+
+- このアクティビティでは、インタラクティブ・マップ（<https://biodiversity-map.thinknature-japan.com/en/>）を使って、日本の維管束植物の生物多様性のパターンを探ります。
+
+## About the on-demand lecture activity
+
+- Please **fill out the Google Form for the activity by 2024-07-01 23:59**  
+7月1日 23:59までにGoogleフォームに記入してください。
+
+- The link to the form (<https://forms.gle/oDCMdf9RqNrJN4CV9>) is available in Moodle and the course website  
+フォームへのリンクはMoodleとコースウェブサイトにあります。

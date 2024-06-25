@@ -274,12 +274,12 @@ https://www.nies.go.jp/kokusai/tpm/tpm8/download/part2/p2_s2_11.pdf
 
 - In this activity, you will use an interactive map (<https://biodiversity-map.thinknature-japan.com/en/>) to explore patterns of biodiversity in native vascular plants of Japan
 
-- このアクティビティでは、インタラクティブ・マップ（https://biodiversity-map.thinknature-japan.com/en/）を使って、日本の維管束植物の生物多様性のパターンを探ります。
+- このアクティビティでは、インタラクティブ・マップ（<https://biodiversity-map.thinknature-japan.com/en/>）を使って、日本の維管束植物の生物多様性のパターンを探ります。
 
 ## Activity: Exploring biodiversity patterns in Japan
 
-- Please **fill out the Google Form for the activity by 2024-07-02**  
-7月2日までにGoogleフォームに記入してください。
+- Please **fill out the Google Form for the activity by 2024-07-01 23:59**  
+7月1日 23:59までにGoogleフォームに記入してください。
 
-- The link to the form (<https://forms.gle/ivzxMYu32MtnCdmn9>) is available in Moodle and the course website  
+- The link to the form (<https://forms.gle/oDCMdf9RqNrJN4CV9>) is available in Moodle and the course website  
 フォームへのリンクはMoodleとコースウェブサイトにあります。

@@ -8,9 +8,9 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.549">
+  <meta name="generator" content="quarto-1.3.450">
 
-  <title>Biodiversity and Japan</title>
+  <title>Biodiversity and Japan – index</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -156,8 +156,7 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    padding-bottom: 0.5rem;
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -334,7 +333,7 @@
 <section id="announcements" class="slide level2">
 <h2>Announcements</h2>
 <ul>
-<li><p>The Media Day (Day 4) video and <strong>required</strong> activity are posted on Moodle. Complete the video and activity by 7/2.</p></li>
+<li><p>The Media Day (Day 4) video and <strong>required</strong> activity are posted on Moodle. Complete the video and activity by 7/1 23:59.</p></li>
 <li><p>Midterm is <strong>next week</strong> (7/2). I will explain more at the end of today’s lecture.</p></li>
 </ul>
 </section>
@@ -549,11 +548,25 @@ Genotype = 遺伝子型</p>
 <li><p>No computers or smartphones ラップトップ、携帯など禁止</p></li>
 <li><p>1 page (A4, both sides) of hand-written notes allowed A4一枚（両面）の手書きメモはオッケー</p></li>
 </ul>
+</section>
+<section id="about-the-on-demand-lecture-activity" class="slide level2">
+<h2>About the on-demand lecture activity</h2>
+<ul>
+<li><p>In this activity, you will use an interactive map (<a href="https://biodiversity-map.thinknature-japan.com/en/" class="uri">https://biodiversity-map.thinknature-japan.com/en/</a>) to explore patterns of biodiversity in native vascular plants of Japan</p></li>
+<li><p>このアクティビティでは、インタラクティブ・マップ（<a href="https://biodiversity-map.thinknature-japan.com/en/" class="uri">https://biodiversity-map.thinknature-japan.com/en/</a>）を使って、日本の維管束植物の生物多様性のパターンを探ります。</p></li>
+</ul>
+</section>
+<section id="about-the-on-demand-lecture-activity-1" class="slide level2">
+<h2>About the on-demand lecture activity</h2>
+<ul>
+<li><p>Please <strong>fill out the Google Form for the activity by 2024-07-01 23:59</strong><br>
+7月1日 23:59までにGoogleフォームに記入してください。</p></li>
+<li><p>The link to the form (<a href="https://forms.gle/oDCMdf9RqNrJN4CV9" class="uri">https://forms.gle/oDCMdf9RqNrJN4CV9</a>) is available in Moodle and the course website<br>
+フォームへのリンクはMoodleとコースウェブサイトにあります。</p></li>
+</ul>
 
-<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
-</div>
 </div>
 </section></section>
     </div>
@@ -582,6 +595,7 @@ Genotype = 遺伝子型</p>
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
+'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -842,9 +856,10 @@ Genotype = 遺伝子型</p>
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      function tippyHover(el, contentFn) {
         const config = {
           allowHTML: true,
+          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -854,17 +869,8 @@ Genotype = 遺伝子型</p>
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start',
+          placement: 'bottom-start'
         };
-        if (contentFn) {
-          config.content = contentFn;
-        }
-        if (onTriggerFn) {
-          config.onTrigger = onTriggerFn;
-        }
-        if (onUntriggerFn) {
-          config.onUntrigger = onUntriggerFn;
-        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
