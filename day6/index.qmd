@@ -11,11 +11,9 @@ execute:
 
 2024-07-09
 
-## Quiz
+---
 
-- Visit <https://gosocrative.com> and enter room name JABIOD2024, **or** scan the barcode:
-
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024" height="400"}
+![](../images/socrative_qr.png)
 
 ## Threats to biodiversity in Japan
 
