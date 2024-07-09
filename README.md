@@ -15,6 +15,10 @@ Instructor: Assoc. Prof. [Joel H. Nitta](https://www.joelnitta.com)
 
 - [English](https://syllabus.gs.chiba-u.jp/2024/401001000000000/G15N945001/en_US)
 
-## Updating website
+## Updating dates
 
 To update the dates on the website, edit `date_df` in `update_dates.R`, then run `update_dates.R`. Some dates may still need to be adjusted manually.
+
+## Deployment
+
+Deploy to `gh-pages` branch with `quarto publish`

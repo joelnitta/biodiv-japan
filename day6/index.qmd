@@ -58,14 +58,10 @@ https://storymaps.arcgis.com/stories/65c274fef431470cb9038e3997a7ca5b
 :::
 
 ::: {.column width="50%"}
-![](../images/plantation.png){}
+![](../images/asama_forest.jpeg){}
 :::
 
 ::::
-
-::: {.medsmall}
-http://www.ffpri.affrc.go.jp/en/news/static-event/forestrybiodiversity/index.html
-:::
 
 ## Invasive species 外来種
 
@@ -146,17 +142,15 @@ For your final project, you will give a **group presentation** on a biodiversity
 
 ## Final Project {.smaller}
 
-Each group (6 total) chooses one hotspot
+Each group (3 total) chooses **one** hotspot
 
 - Global Hotspots (from [Conservation International list](https://www.conservation.org/priorities/biodiversity-hotspots))
   - Tropical Andes 熱帯アンデス
   - Cape Floristic Region ケープ植物区保護地域群
-  - Polynesia-Micronesia ポリネシア・ミクロネシア
 
 - Hotspots in Japan
   - Ogasawara Islands 小笠原諸島
   - Okinawa Islands 沖縄諸島
-  - Minami-Alps 南アルプス
 
 ## Example Hotspot Profile
 
@@ -184,7 +178,7 @@ Each group (6 total) chooses one hotspot
 
 ## Format
 
-- Time: 10 minutes
+- Time: 10~12 minutes
 
 - Language: English
 
@@ -192,11 +186,11 @@ Each group (6 total) chooses one hotspot
 
 ## Submission
 
-- Slides (Powerpoint, 10 minutes)
+- Slides (Powerpoint)
 
 - Script (Microsoft Word, 5-6 pages double spaced, 12 point font)
 
-- Submit via Moodle by **11:59 PM on July 24th**
+- Submit via Moodle by **5:50 PM on July 18**
 
 ## Division of group work
 
@@ -224,9 +218,7 @@ You will evaluate each other group's presentation (Form A), as well as the contr
 
 ## Evaluations
 
-- Fill out Form A (paper) in class on July 25th and **submit at the end of class**
-
-- Fill out Form B (online) after class and **submit via Moodle by 11:59 PM on July 25th**
+- Fill out Form A and Form B (Word documents) and submit via Moodle **by 11:59 PM July 19**.
 
 ## About citing references {.smaller}
 
