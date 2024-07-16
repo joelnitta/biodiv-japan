@@ -19,6 +19,8 @@ execute:
 
 ## Who is responsible for conservation policy in Japan?
 
+. . .
+
 :::: {.columns}
 
 ::: {.column width="50%"}
@@ -93,6 +95,8 @@ https://www.pref.chiba.lg.jp/shizen/kouen/shizenkouen/index.html
 
 レッドリストとは？
 
+. . .
+
 - The Red List is a **list of endangered species** 絶滅危惧種のリスト
 
 - The original Red List was created by the **International Union for the Conservation of Nature (IUCN)** at the global level 原型は、国際自然保護連合（IUCN）が世界レベルで作成したもの
@@ -141,6 +145,8 @@ https://upload.wikimedia.org/wikipedia/commons/c/c3/Nipponia_nippon.jpg
 :::
 
 ## How you can contribute to conservation
+
+. . .
 
 :::: {.columns}
 
