@@ -36,5 +36,5 @@ execute:
 
 ## About evaluation sheets 評価シートについて
 
-- Fill out Form A on paper during class, return at end of class 授業中に様式Aを記入し、授業終了時に返してください。
-- Fill out Form B on Moodle after class, submit by 11:59 PM today (July 25) 授業後に様式BをMoodle上で記入し、本日（７月２５日）の23:59時までに提出してください。
+- Fill out Form A **during** class, submit by 11:59 PM July 19 授業**中**に様式Aを記入し、7月19日23:59時までに提出してください。
+- Fill out Form B **after** class, submit by 11:59 PM July 19 授業**後**に様式Bをを記入し、7月19日23:59時までに提出してください。
