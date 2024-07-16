@@ -1,4 +1,5 @@
 .DS_Store
 /.quarto/
 *code-workspace
-docs
+docs/
+_site/
