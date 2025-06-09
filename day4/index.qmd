@@ -278,8 +278,5 @@ https://www.nies.go.jp/kokusai/tpm/tpm8/download/part2/p2_s2_11.pdf
 
 ## Activity: Exploring biodiversity patterns in Japan
 
-- Please **fill out the Google Form for the activity by 2024-07-01 23:59**  
-7月1日 23:59までにGoogleフォームに記入してください。
-
-- The link to the form (<https://forms.gle/oDCMdf9RqNrJN4CV9>) is available in Moodle and the course website  
-フォームへのリンクはMoodleとコースウェブサイトにあります。
+- Please **complete the activity on Moodle by 2025-06-30 23:59**  
+6月30日 23:59までにMoodleで課題を完成させてください。

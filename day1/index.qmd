@@ -9,8 +9,6 @@ execute:
 
 # Day 1: Introduction to "Biodiversity and Japan"
 
-2024-06-11
-
 ## Instructor: Joel Nitta
 
 :::: {.columns}
@@ -267,7 +265,7 @@ By the end of the course, you will be able to:
 
 ::: {.columns}
 ::: {.column width="40%"}
-- Enter room name `JABIOD2024` at <https://gosocrative.com> **or** scan the barcode
+- Enter room name `JABIOD2025` at <https://gosocrative.com> **or** scan the barcode
 :::
 ::: {.column width="60%"}
 ![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024"}
@@ -276,13 +274,13 @@ By the end of the course, you will be able to:
 
 ## Schedule
 
-- Day 1, 2024-06-11
+- Day 1, 2025-06-10
   - Introduction: Why does biodiversity matter? (no quiz)
 
-- Day 2, 2024-06-18
+- Day 2, 2025-06-17
   - Global distribution of biodiversity
 
-- Day 3, 2024-06-25
+- Day 3, 2025-06-24
   - Levels of biodiversity
 
 - Day 4, Media Day (on-demand, no quiz)
@@ -290,17 +288,16 @@ By the end of the course, you will be able to:
 
 ## Schedule (cont'd)
 
-- Day 5, 2024-07-02
+- Day 5, 2025-07-01
   - Midterm test, Ecosystems & ecosystem services (no quiz)
 
-- Day 6, 2024-07-09
+- Day 6, 2025-07-08
   - Threats to biodiversity
 
-- Day 7, 2024-07-16
+- Day 7, 2025-07-15
   - Protecting biodiversity
 
-- Day 8, 2024-07-18 17:50: Final presentation
-  - **NOTE** this is an **online** class at a different time and day than usual (補講日)
+- Day 8, 2025-07-22: Final presentation
 
 ## Grades
 

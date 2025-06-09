@@ -9,8 +9,6 @@ execute:
 
 # Day 7: Protecting biodiversity
 
-2024-07-16
-
 ## Quiz
 
 - Visit <https://gosocrative.com> and enter room name JABIOD2024, **or** scan the barcode:

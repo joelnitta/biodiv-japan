@@ -9,8 +9,6 @@ execute:
 
 # Day 5: Ecosystems and ecosystem services
 
-2024-07-02
-
 ## Midterm test
 
 - 30 minutes long
@@ -204,7 +202,7 @@ https://www.biodic.go.jp/biodiversity/
 
 ## Reminder: Quiz next week
 
-Watch the videos and be ready for a quiz next week (7/9)
+Watch the videos and be ready for a quiz next week
 
 - [Field Methods for Documenting Biodiversity](https://www.calacademy.org/explore-science/field-methods-for-documenting-biodiversity)
 - [Human Activities That Threaten Biodiversity](https://www.calacademy.org/explore-science/human-activities-that-threaten-biodiversity)

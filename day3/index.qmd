@@ -9,8 +9,6 @@ execute:
 
 # Day 3: Levels of biodiversity
 
-2024-06-25
-
 ## Announcements
 
 - The Media Day (Day 4) video and **required** activity are posted on Moodle. Complete the video and activity by 7/1 23:59.

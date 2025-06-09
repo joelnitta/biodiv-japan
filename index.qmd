@@ -23,7 +23,7 @@ toc: false
 
 ## Videos 
 
-### Watch by Day 2, 2024-06-18
+### Watch by Day 2, 2025-06-17
 
 Global distribution of biodiversity
 
@@ -31,7 +31,7 @@ Global distribution of biodiversity
 - [What is a Biodiversity Hotspot?](https://www.calacademy.org/explore-science/what-is-a-biodiversity-hotspot)
 - [Why Biodiversity is Distributed Unevenly](https://www.calacademy.org/explore-science/why-biodiversity-is-distributed-unevenly)
 
-### Watch by Day 3, 2024-06-25
+### Watch by Day 3, 2025-06-24
 
 Levels of biodiversity
 
@@ -41,18 +41,18 @@ Levels of biodiversity
 
 ### Watch on your schedule 
 
-(Media day, between 2024-06-25 and 2024-07-02)
+(Media day, between 2025-06-24 and 2025-07-01)
 
 - [Distribution of biodiversity in Japan](https://youtu.be/XQUn_jvfKTA)
 
-### Watch by Day 5, 2024-07-02
+### Watch by Day 5, 2025-07-01
 
 Ecosystems & ecosystem services
 
 - [Ecosystem Services](https://www.calacademy.org/explore-science/ecosystem-services)
 - [Ecosystem Biodiversity](https://www.calacademy.org/explore-science/ecosystem-biodiversity)
 
-### Watch by Day 6, 2024-07-09
+### Watch by Day 6, 2025-07-08
 
 Documenting biodiversity, Threats to biodiversity
 
@@ -61,7 +61,7 @@ Documenting biodiversity, Threats to biodiversity
 - [Introduced Species and Biodiversity](https://www.calacademy.org/explore-science/introduced-species-and-biodiversity)
 - [How Does Climate Change Affect Biodiversity?](https://www.calacademy.org/educators/how-does-climate-change-affect-biodiversity)
 
-### Watch by Day 7, 2024-07-16
+### Watch by Day 7, 2025-07-15
 
 Protecting biodiversity
 
@@ -72,13 +72,12 @@ Protecting biodiversity
 
 ## Important Dates
 
-- Day 2, 2024-06-18: Quiz
-- Day 3, 2024-06-25: Quiz
-- Day 5, 2024-07-02: Midterm test
-- Day 6, 2024-07-09: Quiz
-- Day 7, 2024-07-16: Quiz
-- Day 8, 2024-07-18 17:50: Final presentation
-  - **NOTE** this is an **online** class at a different time and day than usual
+- Day 2, 2025-06-17: Quiz
+- Day 3, 2025-06-24: Quiz
+- Day 5, 2025-07-01: Midterm test
+- Day 6, 2025-07-08: Quiz
+- Day 7, 2025-07-15: Quiz
+- Day 8, 2025-07-22: Final presentation
   - Slides and script for final presentation due by the start of the class
 
 ## Office Hours
@@ -89,4 +88,4 @@ By appointment, please send an email to <joelnitta@chiba-u.jp>
 
 ## Syllabus
 
-- [English](https://syllabus.gs.chiba-u.jp/2024/401001000000000/G15N945001/en_US)
+- [English](https://syllabus.gs.chiba-u.jp/2025/401001000000000/G15N945001/en_US)
