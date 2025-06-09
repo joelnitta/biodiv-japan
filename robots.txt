@@ -1,1 +1,1 @@
-Sitemap: git@github.com:joelnitta/biodiv-japan/sitemap.xml
+Sitemap: https://joelnitta.github.io/biodiv-japan/sitemap.xml
