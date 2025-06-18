@@ -13,10 +13,10 @@ execute:
 
 ::: {.columns}
 ::: {.column width="40%"}
-- Enter room name `JABIOD2024` at <https://gosocrative.com> **or** scan the barcode
+- Enter room name `JABIOD2025` at <https://gosocrative.com> **or** scan the barcode
 :::
 ::: {.column width="60%"}
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025"}
 :::
 :::
 
@@ -62,10 +62,10 @@ The **total mass** of organisms 生物量
 
 ::: {.columns}
 ::: {.column width="40%"}
-- Enter room name `JABIOD2024` at <https://gosocrative.com> **or** scan the barcode
+- Enter room name `JABIOD2025` at <https://gosocrative.com> **or** scan the barcode
 :::
 ::: {.column width="60%"}
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025"}
 :::
 :::
 
@@ -178,10 +178,10 @@ One person per group answer on Socrative
 
 ::: {.columns}
 ::: {.column width="40%"}
-- Enter room name `JABIOD2024` at <https://gosocrative.com> **or** scan the barcode
+- Enter room name `JABIOD2025` at <https://gosocrative.com> **or** scan the barcode
 :::
 ::: {.column width="60%"}
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025"}
 :::
 :::
 
@@ -211,10 +211,10 @@ One person per group answer on Socrative
 
 ::: {.columns}
 ::: {.column width="40%"}
-- Enter room name `JABIOD2024` at <https://gosocrative.com> **or** scan the barcode
+- Enter room name `JABIOD2025` at <https://gosocrative.com> **or** scan the barcode
 :::
 ::: {.column width="60%"}
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025"}
 :::
 :::
 

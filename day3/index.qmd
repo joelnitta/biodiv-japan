@@ -17,7 +17,7 @@ execute:
 
 ## Quiz
 
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024" height="400"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025" height="400"}
 
 ## Biodiversity is not just about species
 

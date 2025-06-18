@@ -11,9 +11,9 @@ execute:
 
 ## Quiz
 
-- Visit <https://gosocrative.com> and enter room name JABIOD2024, **or** scan the barcode:
+- Visit <https://gosocrative.com> and enter room name JABIOD2025, **or** scan the barcode:
 
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024" height="400"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025" height="400"}
 
 ## Who is responsible for conservation policy in Japan?
 
