@@ -17,7 +17,14 @@ execute:
 
 ## Quiz
 
-![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025" height="400"}
+::: {.columns}
+::: {.column width="40%"}
+- Enter room name `JABIOD2025` at <https://gosocrative.com> **or** scan the barcode
+:::
+::: {.column width="60%"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2025"}
+:::
+:::
 
 ## Biodiversity is not just about species
 
