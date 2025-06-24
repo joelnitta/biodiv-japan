@@ -11,9 +11,9 @@ execute:
 
 ## Announcements
 
-- The Media Day (Day 4) video and **required** activity are posted on Moodle. Complete the video and activity by 7/1 23:59.
+- The Media Day (Day 4) video and **required** activity are posted on Moodle. Complete the video and activity by 6/30 23:59.
 
-- Midterm is **next week** (7/2). I will explain more at the end of today's lecture.
+- Midterm is **next week** (7/1). I will explain more at the end of today's lecture.
 
 ## Quiz
 
@@ -146,14 +146,14 @@ Indicate on the tree where the characteristics evolved その特徴がどこで�
 
 ![](../images/which-diverse-phylo.png)
 
-## About the midterm (7/2)
+## About the midterm (7/1)
 
 - Topics covered 試験に出るトピック
   - **Day 2**, Global distribution of biodiversity
   - **Day 3**, Levels of biodiversity
   - **Media day**, Distribution of biodiversity in Japan
 
-## About the midterm (7/2)
+## About the midterm (7/1)
 
 - 30 minutes long
 
@@ -171,8 +171,6 @@ Indicate on the tree where the characteristics evolved その特徴がどこで�
 
 ## About the on-demand lecture activity
 
-- Please **fill out the Google Form for the activity by 2024-07-01 23:59**  
-7月1日 23:59までにGoogleフォームに記入してください。
+- Please **complete the activity on Moodle by 2025-06-30 23:59**  
+6月30日 23:59までにMoodleに記入してください。
 
-- The link to the form (<https://forms.gle/oDCMdf9RqNrJN4CV9>) is available in Moodle and the course website  
-フォームへのリンクはMoodleとコースウェブサイトにあります。
