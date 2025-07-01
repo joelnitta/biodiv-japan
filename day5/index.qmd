@@ -52,7 +52,7 @@ From a conservation standpoint **we need to save each one**
 
 ## Primary succession: when an ecosystem develops from bare rock {.smaller}
 
-一次遷移：溶岩台地などの土壌もない裸地や新しい湖沼などから始まる遷移
+一次遷移：溶岩台地などの土壌もない裸地から始まる遷移
 
 ![](https://news.uchicago.edu/sites/default/files/styles/tablet_landscape/public/images/2021-12/primary-succession.jpg?itok=eEohg4gp){fig-alt="Picture of primary succession" height="450"}
 
