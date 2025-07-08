@@ -143,10 +143,12 @@ Each group (3 total) chooses **one** hotspot
 - Global Hotspots (from [Conservation International list](https://www.conservation.org/priorities/biodiversity-hotspots))
   - Tropical Andes 熱帯アンデス
   - Cape Floristic Region ケープ植物区保護地域群
+  - Polynesia-Micronesia ポリネシア・マイクロネシア
 
 - Hotspots in Japan
   - Ogasawara Islands 小笠原諸島
   - Okinawa Islands 沖縄諸島
+  - Minami Alps 南アルプス
 
 ## Example Hotspot Profile
 
