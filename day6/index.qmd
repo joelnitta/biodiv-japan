@@ -182,11 +182,7 @@ Each group (3 total) chooses **one** hotspot
 
 ## Submission
 
-- Slides (Powerpoint)
-
-- Script (Microsoft Word, 5-6 pages double spaced, 12 point font)
-
-- Submit via Moodle by **5:50 PM on July 18**
+- Submit slides (Powerpoint) via Moodle by **12:50 PM on July 22**
 
 ## Division of group work
 
@@ -214,7 +210,7 @@ You will evaluate each other group's presentation (Form A), as well as the contr
 
 ## Evaluations
 
-- Fill out Form A and Form B (Word documents) and submit via Moodle **by 11:59 PM July 19**.
+- Fill out Form A and Form B (Word documents) and submit via Moodle **by 11:59 PM July 22**.
 
 ## About citing references {.smaller}
 
